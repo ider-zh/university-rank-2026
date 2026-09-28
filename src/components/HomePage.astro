@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Rankings from './Rankings';
+import { universities, type Locale } from '../lib/data';
+import { catalogManifest, catalogUniversities, catalogUrl, catalogRelease, catalogMedia } from '../lib/catalog';
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+const zh = locale === 'zh';
+const cover = catalogMedia.universities.Q34433?.hero;
+---
+<Layout title={zh ? '世界大学排名' : 'World university rankings'} locale={locale} alternate={`/${zh ? 'en' : 'zh'}/`}>
+  <section class="atlas-intro">
+    <div class="intro-copy">
+      <p class="eyebrow">{zh ? '高等教育 / 院校与排名' : 'HIGHER EDUCATION / UNIVERSITIES & RANKINGS'}</p>
+      <h1 class="display">{zh ? '世界大学，' : 'A world of'}<br /><span>{zh ? '各有所长。' : 'possibilities.'}</span></h1>
+      <p class="intro-deck">{zh ? '从学术实力到校园生活，读懂一所大学。以你关心的维度，寻找值得深入了解的学校。' : 'Understand a university, from academic strengths to campus life. Explore institutions through the dimensions that matter to you.'}</p>
+      <a class="editorial-link" href="#rankings">{zh ? '探索大学排名' : 'Explore the rankings'} <span aria-hidden="true">↓</span></a>
+    </div>
+    {cover && <figure class="cover-story">
+      <a href={`/${locale}/university/Q34433/`} aria-label={zh ? '了解牛津大学' : 'Explore the University of Oxford'}><img src={cover.url} width={cover.width} height={cover.height} alt={zh ? '牛津城市与大学建筑的空中全景' : 'An aerial panorama of Oxford and its university buildings'} fetchpriority="high" /></a>
+      <figcaption><span><span class="eyebrow">{zh ? '校园一瞥' : 'CAMPUS VIEW'}</span><a href={`/${locale}/university/Q34433/`}>{zh ? '牛津大学 · 英国' : 'University of Oxford · United Kingdom'} ↗</a></span><small>{cover.artist} · <a href={cover.sourcePage || cover.sourceUrl}>{cover.license}</a><br />{zh ? '照片已缩放与裁切' : 'Photograph resized and cropped'}</small></figcaption>
+    </figure>}
+  </section>
+  <div class="atlas-index" aria-label={zh ? '收录概览' : 'Collection overview'}><span><strong>{catalogManifest.universityCount.toLocaleString(locale)}</strong> {zh ? '所精选大学' : 'universities'}</span><span><strong>{catalogManifest.subjects.length}</strong> {zh ? '个学科榜' : 'subject rankings'}</span><span><strong>05</strong> {zh ? '个可调维度' : 'adjustable dimensions'}</span><span class="index-note">{zh ? '发现 · 比较 · 深入了解' : 'DISCOVER · COMPARE · EXPLORE'}</span></div>
+  <Rankings locale={locale} url={`${catalogUrl}/ranking.json`} release={catalogRelease} count={catalogManifest.universityCount} excludedCount={catalogManifest.excludedCount} initial={catalogUniversities.slice(0,20)} featured={universities.map(u=>({id:u.id,logo:u.logo}))} logos={Object.fromEntries(Object.entries(catalogMedia.universities).flatMap(([id, media])=> media.logo ? [[id, media.logo.url]] : []))} subjects={catalogManifest.subjects} client:load />
+  <noscript>{zh?'默认首页排名可直接查看。搜索、筛选和自定义权重需要启用 JavaScript。':'The default first page is available without JavaScript. Enable it for search, filters, and custom weights.'}</noscript>
+</Layout>
