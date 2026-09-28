@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+import type { Locale } from '../lib/data';
+interface Props { title: string; locale?: Locale; alternate?: string; }
+const { title, locale = 'zh', alternate = '/en/' } = Astro.props;
+const zh = locale === 'zh';
+---
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="description" content={zh ? '探索世界大学排名、五维指标、校园信息和校友故事。' : 'Explore university rankings, academic strengths, campus facts, and alumni stories.'} />
+    <title>{title} · University Atlas</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-50 focus:bg-white focus:p-3">{zh ? '跳到内容' : 'Skip to content'}</a>
+    <header class="masthead">
+      <nav aria-label={zh ? '主导航' : 'Main navigation'} class="page-shell masthead-inner">
+        <a href={`/${locale}/`} class="wordmark no-underline" aria-label="University Atlas">
+          <span class="wordmark-title">University<span class="text-accent"> Atlas</span></span>
+          <span class="wordmark-caption">{zh ? '大学图鉴 · 世界大学观察' : 'An atlas of higher education'}</span>
+        </a>
+        <div class="masthead-links">
+          <span class="edition">2026 · {zh ? '大学图鉴' : 'ATLAS'}</span>
+          <a href={`/${locale}/#rankings`} class="text-sm hover:underline">{zh ? '浏览榜单' : 'Rankings'}</a>
+          <a data-locale-switch href={alternate} lang={zh ? 'en' : 'zh'} class="text-sm underline-offset-4 hover:underline">{zh ? 'English ↗' : '中文 ↗'}</a>
+        </div>
+      </nav>
+    </header>
+    <main id="main" class="page-shell"><slot /></main>
+    <footer class="page-shell site-footer mt-20 flex flex-wrap justify-between gap-4 py-8 text-xs leading-6 text-muted">
+      <p>University Atlas · {zh ? '探索大学，发现更多可能。' : 'Discover universities. Explore possibilities.'}</p>
+      <a href={`/${locale}/image-credits/`} class="underline underline-offset-4">{zh ? '图片来源与授权' : 'Image credits & licenses'}</a>
+      <p>{zh ? '开发预览 · 数据与排名口径持续核验' : 'Development preview · Data and ranking methodology under review'}</p>
+    </footer>
+  </body>
+</html>

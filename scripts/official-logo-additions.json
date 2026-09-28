@@ -1,0 +1,1092 @@
+{
+  "Q1074103": {
+    "sourceUrl": "https://ustc.edu.cn/news/images/logo.svg",
+    "sourcePage": "https://ustc.edu.cn/",
+    "rightsUrl": "https://ustc.edu.cn/",
+    "artist": "University of Science and Technology of China",
+    "description": "Official homepage identity for University of Science and Technology of China; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1074103-0.39d2d180e96f3316.original",
+    "sourceSha256": "39d2d180e96f33160d1684665699d67fa54494f9a37fd716225767a14effc726",
+    "reviewEvidence": {
+      "pageTitle": "中国科学技术大学",
+      "candidateKey": "Q1074103-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q197543": {
+    "sourceUrl": "https://www.zju.edu.cn/_upload/tpl/0b/bf/3007/template3007/static/media/icon_mlogo.4f71be0a36fc2a4abfa7.svg",
+    "sourcePage": "https://www.zju.edu.cn/",
+    "rightsUrl": "https://www.zju.edu.cn/",
+    "artist": "Zhejiang University",
+    "description": "Official homepage identity for Zhejiang University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q197543-0.59a2c6dd5c814766.original",
+    "sourceSha256": "59a2c6dd5c814766a09375a4ca8b25037ec2a06ce6c00d99d62e7697eabe4b1b",
+    "sourceFormat": "embedded-png",
+    "reviewEvidence": {
+      "pageTitle": "浙江大学",
+      "candidateKey": "Q197543-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q192334": {
+    "sourceUrl": "https://www.unc.edu/wp-content/uploads/2025/11/University_Signature_White_Navy_rgb_h.svg",
+    "sourcePage": "https://www.unc.edu/",
+    "rightsUrl": "https://www.unc.edu/",
+    "artist": "University of North Carolina at Chapel Hill",
+    "description": "Official homepage identity for University of North Carolina at Chapel Hill; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q192334-1.c99f09f43bcb150e.original",
+    "sourceSha256": "c99f09f43bcb150ebeb579f49db31cb686d503b7e8c3ed152ddaed5c9613effc",
+    "reviewEvidence": {
+      "pageTitle": "The University of North Carolina at Chapel Hill",
+      "candidateKey": "Q192334-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q178972": {
+    "sourceUrl": "https://www.sysu.edu.cn/images/logo1.png",
+    "sourcePage": "https://www.sysu.edu.cn/",
+    "rightsUrl": "https://www.sysu.edu.cn/",
+    "artist": "Sun Yat-sen University",
+    "description": "Official homepage identity for Sun Yat-sen University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q178972-1.6725f365b51eb342.original",
+    "sourceSha256": "6725f365b51eb3427b79365af1abf3d375c442b74ec75dc6b733b79d7d47bb12",
+    "reviewEvidence": {
+      "pageTitle": "中山大学 SUN YAT-SEN UNIVERSITY",
+      "candidateKey": "Q178972-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q15568": {
+    "sourceUrl": "https://www.hku.hk/etc.clientlibs/hkucms/clientlibs/clientlib-site/resources/icon-192x192.png",
+    "sourcePage": "https://www.hku.hk/",
+    "rightsUrl": "https://www.hku.hk/",
+    "artist": "University of Hong Kong",
+    "description": "Official homepage identity for University of Hong Kong; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q15568-0.45ae0a4ffe6812e5.original",
+    "sourceSha256": "45ae0a4ffe6812e5a52ccf19a41df07a0d8e7d9e522146658755cc0662f300de",
+    "reviewEvidence": {
+      "pageTitle": "index",
+      "candidateKey": "Q15568-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q487556": {
+    "sourceUrl": "https://www.sydney.edu.au/etc.clientlibs/corporate-commons/clientlibs/foundation/resources/corporate-frontend/assets/img/favicon/favicon-96x96.png",
+    "sourcePage": "https://www.sydney.edu.au/",
+    "rightsUrl": "https://www.sydney.edu.au/",
+    "artist": "University of Sydney",
+    "description": "Official homepage identity for University of Sydney; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q487556-1.6a211825ed55481c.original",
+    "sourceSha256": "6a211825ed55481ce036c615a25d23564938b8609363c7bab917fcd4b1a72301",
+    "reviewEvidence": {
+      "pageTitle": "One of Australia’s top universities - The University of Sydney",
+      "candidateKey": "Q487556-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q230899": {
+    "sourceUrl": "https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png",
+    "sourcePage": "https://www.manchester.ac.uk/",
+    "rightsUrl": "https://www.manchester.ac.uk/",
+    "artist": "University of Manchester",
+    "description": "Official homepage identity for University of Manchester; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q230899-0.db19670f4bbe5e69.original",
+    "sourceSha256": "db19670f4bbe5e69a6216c71ba5e85d345f8c31c9ab9d09101ba103fdd3b8e44",
+    "reviewEvidence": {
+      "pageTitle": "The University of Manchester",
+      "candidateKey": "Q230899-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1711196": {
+    "sourceUrl": "https://www.hust.edu.cn/images/logo20240628.png",
+    "sourcePage": "https://www.hust.edu.cn/",
+    "rightsUrl": "https://www.hust.edu.cn/",
+    "artist": "Huazhong University of Science and Technology",
+    "description": "Official homepage identity for Huazhong University of Science and Technology; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1711196-0.b818d74ac39eef4a.original",
+    "sourceSha256": "b818d74ac39eef4a0cd24720f148406736342718edbb7e9b35160611b0bb4e0f",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "华中科技大学",
+      "candidateKey": "Q1711196-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q182973": {
+    "sourceUrl": "https://uiowa.edu/profiles/custom/sitenow/assets/android-chrome-192x192.png",
+    "sourcePage": "https://uiowa.edu/",
+    "rightsUrl": "https://uiowa.edu/",
+    "artist": "University of Iowa",
+    "description": "Official homepage identity for University of Iowa; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q182973-0.29c3aeb0cead6fee.original",
+    "sourceSha256": "29c3aeb0cead6feea9cdd740f8d62c40d698e5856207bff2e08335ec4dc953b5",
+    "reviewEvidence": {
+      "pageTitle": "The University of Iowa",
+      "candidateKey": "Q182973-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q866012": {
+    "sourceUrl": "https://static.uq.net.au/v10/logos/corporate/uq-apple-touch-icon.png",
+    "sourcePage": "https://www.uq.edu.au/",
+    "rightsUrl": "https://www.uq.edu.au/",
+    "artist": "University of Queensland",
+    "description": "Official homepage identity for University of Queensland; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q866012-0.949b57ce56ae24af.original",
+    "sourceSha256": "949b57ce56ae24af782b2993e922cd9507e902100bfec7a1f51a1804dcc752ce",
+    "reviewEvidence": {
+      "pageTitle": "The University of Queensland",
+      "candidateKey": "Q866012-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q254204": {
+    "sourceUrl": "https://www.nankai.edu.cn/_upload/tpl/02/58/600/template600/images/logo.png",
+    "sourcePage": "https://www.nankai.edu.cn/",
+    "rightsUrl": "https://www.nankai.edu.cn/",
+    "artist": "Nankai University",
+    "description": "Official homepage identity for Nankai University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q254204-0.e1219a954b2372cc.original",
+    "sourceSha256": "e1219a954b2372ccecde6c9788bb3c25ebb59ea99a4935b84fe8305dac1852af",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "南开大学",
+      "candidateKey": "Q254204-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q604470": {
+    "sourceUrl": "https://www.sdu.edu.cn/images/logo.svg",
+    "sourcePage": "https://www.sdu.edu.cn/",
+    "rightsUrl": "https://www.sdu.edu.cn/",
+    "artist": "Shandong University",
+    "description": "Official homepage identity for Shandong University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q604470-0.a35165d4b64e70a4.original",
+    "sourceSha256": "a35165d4b64e70a438fda4794dcb3ee4fc7bd70ecec7aea5040e29d694c64faf",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "山东大学 SHANDONG UNIVERSITY",
+      "candidateKey": "Q604470-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1432030": {
+    "sourceUrl": "https://www.jlu.edu.cn/images/logo.jpg",
+    "sourcePage": "https://www.jlu.edu.cn/",
+    "rightsUrl": "https://www.jlu.edu.cn/",
+    "artist": "Jilin University",
+    "description": "Official homepage identity for Jilin University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1432030-0.6c239873e1199377.original",
+    "sourceSha256": "6c239873e119937745cabfc4348a792deef9210f72822936d98abd35a199d087",
+    "reviewEvidence": {
+      "pageTitle": "吉林大学",
+      "candidateKey": "Q1432030-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q2031560": {
+    "sourceUrl": "https://www.tju.edu.cn/images/tjulogo.png",
+    "sourcePage": "https://www.tju.edu.cn/",
+    "rightsUrl": "https://www.tju.edu.cn/",
+    "artist": "Tianjin University",
+    "description": "Official homepage identity for Tianjin University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q2031560-0.66d6b280b6791bb6.original",
+    "sourceSha256": "66d6b280b6791bb6285c9acb91cb1a791cab5e4350972c6a93a61efc90e5e6e3",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "天津大学",
+      "candidateKey": "Q2031560-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q32746": {
+    "sourceUrl": "https://www.ntu.edu.tw/images/favicon/apple-touch-icon.png",
+    "sourcePage": "https://www.ntu.edu.tw/",
+    "rightsUrl": "https://www.ntu.edu.tw/",
+    "artist": "National Taiwan University",
+    "description": "Official homepage identity for National Taiwan University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q32746-0.4e522088109b9882.original",
+    "sourceSha256": "4e522088109b988233a20bf6131300e21955707b4091e8e7f47fa755dccd14e0",
+    "reviewEvidence": {
+      "pageTitle": "國立臺灣大學",
+      "candidateKey": "Q32746-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q721064": {
+    "sourceUrl": "https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/NTU_Logo.png",
+    "sourcePage": "https://www.ntu.edu.sg/",
+    "rightsUrl": "https://www.ntu.edu.sg/",
+    "artist": "Nanyang Technological University",
+    "description": "Official homepage identity for Nanyang Technological University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q721064-0.45535780334a04c2.original",
+    "sourceSha256": "45535780334a04c2384d82468ab49c2c8f6d5a77f717246dc42f0c6ff6451503",
+    "reviewEvidence": {
+      "pageTitle": "\r\n\tNanyang Technological University - NTU Singapore\r\n",
+      "candidateKey": "Q721064-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q503424": {
+    "sourceUrl": "https://jaducdn.leeds.ac.uk/uol-ds/1.0.21/favicons/apple-touch-icon.png",
+    "sourcePage": "https://www.leeds.ac.uk/",
+    "rightsUrl": "https://www.leeds.ac.uk/",
+    "artist": "University of Leeds",
+    "description": "Official homepage identity for University of Leeds; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q503424-0.5354cb00454471a4.original",
+    "sourceSha256": "5354cb00454471a4613f02bec4177d1c5e017d24e421e913028a6fd597b9bf6e",
+    "reviewEvidence": {
+      "pageTitle": "University of Leeds",
+      "candidateKey": "Q503424-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q16947": {
+    "sourceUrl": "https://www.tongji.edu.cn/images/logo.png",
+    "sourcePage": "https://www.tongji.edu.cn/",
+    "rightsUrl": "https://www.tongji.edu.cn/",
+    "artist": "Tongji University",
+    "description": "Official homepage identity for Tongji University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q16947-0.77283ce33bd34c02.original",
+    "sourceSha256": "77283ce33bd34c02efc7e38b84f974a5393af840eb716c7b22aefd86ac3ee7da",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "同济大学",
+      "candidateKey": "Q16947-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q5088072": {
+    "sourceUrl": "https://www.ccsuniversity.ac.in/favicon.ico",
+    "sourcePage": "https://www.ccsuniversity.ac.in/",
+    "rightsUrl": "https://www.ccsuniversity.ac.in/",
+    "artist": "Chaudhary Charan Singh University",
+    "description": "Official homepage identity for Chaudhary Charan Singh University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q5088072-0.55e78b353f61b597.original",
+    "sourceSha256": "55e78b353f61b597a94d03f16b174dead09fa97eb69d31ba1c1ac60b59c1ddad",
+    "sourceFormat": "ico",
+    "reviewEvidence": {
+      "pageTitle": "Chaudhary Charan Singh University, Meerut",
+      "candidateKey": "Q5088072-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q3631316": {
+    "sourceUrl": "https://www.punjabiuniversity.ac.in/imagesNew/logoNew.avif",
+    "sourcePage": "https://www.punjabiuniversity.ac.in/",
+    "rightsUrl": "https://www.punjabiuniversity.ac.in/",
+    "artist": "Punjabi University",
+    "description": "Official homepage identity for Punjabi University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q3631316-0.052bbbcce821d17b.original",
+    "sourceSha256": "052bbbcce821d17b285eebac8a2e2b5f574554d2b0be7f32bf072c0d92167bac",
+    "reviewEvidence": {
+      "pageTitle": "\r\n\tPunjabi University, Patiala | Higher Education Institute | NAAC \"A\" Grade | Punjab\r\n",
+      "candidateKey": "Q3631316-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q153978": {
+    "sourceUrl": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Favicons/apple-touch-icon.png",
+    "sourcePage": "https://uni-tuebingen.de/",
+    "rightsUrl": "https://uni-tuebingen.de/",
+    "artist": "University of Tübingen",
+    "description": "Official homepage identity for University of Tübingen; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q153978-0.b918dec5c57d1c58.original",
+    "sourceSha256": "b918dec5c57d1c5850a8e1a37075e7ab780ddd0dc9c6cebdd9985b97c9e87012",
+    "reviewEvidence": {
+      "pageTitle": "Startseite | Universität Tübingen",
+      "candidateKey": "Q153978-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1604022": {
+    "sourceUrl": "https://www.bnu.edu.cn/images/logo1.png",
+    "sourcePage": "https://www.bnu.edu.cn/",
+    "rightsUrl": "https://www.bnu.edu.cn/",
+    "artist": "Beijing Normal University",
+    "description": "Official homepage identity for Beijing Normal University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1604022-0.f9d57e608656587e.original",
+    "sourceSha256": "f9d57e608656587e31e78b428c70fbf2dbce38a7b81b85180c67c47ed122f3e2",
+    "reviewEvidence": {
+      "pageTitle": "北京师范大学",
+      "candidateKey": "Q1604022-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q270272": {
+    "sourceUrl": "https://www.rockefeller.edu/img/favicon/apple-icon-180x180.png?v=8",
+    "sourcePage": "https://www.rockefeller.edu/",
+    "rightsUrl": "https://www.rockefeller.edu/",
+    "artist": "The Rockefeller University",
+    "description": "Official homepage identity for The Rockefeller University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q270272-0.26637724754e953c.original",
+    "sourceSha256": "26637724754e953cb808066f00811242e58515d3430edcfaa0b89a817abf8966",
+    "reviewEvidence": {
+      "pageTitle": "The Rockefeller University",
+      "candidateKey": "Q270272-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q45612": {
+    "sourceUrl": "https://www.ul.ac.za/wp-content/uploads/2023/10/cropped-university-of-limpopo-logo-192x192.png",
+    "sourcePage": "https://www.ul.ac.za/",
+    "rightsUrl": "https://www.ul.ac.za/",
+    "artist": "University of Limpopo",
+    "description": "Official homepage identity for University of Limpopo; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q45612-0.8f78bf3109791379.original",
+    "sourceSha256": "8f78bf3109791379b4a3afd3b9ec78406977446bfd7c6c4f623c5cdfbd5f1df7",
+    "reviewEvidence": {
+      "pageTitle": "Finding Solutions for Africa - University of Limpopo",
+      "candidateKey": "Q45612-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q10994963": {
+    "sourceUrl": "https://hnbgu.ac.in/sites/default/files/HNBG-new-logo.png",
+    "sourcePage": "https://hnbgu.ac.in/",
+    "rightsUrl": "https://hnbgu.ac.in/",
+    "artist": "Hemwati Nandan Bahuguna Garhwal University (A Central University)",
+    "description": "Official homepage identity for Hemwati Nandan Bahuguna Garhwal University (A Central University); reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q10994963-0.eaf2e011add64cd6.original",
+    "sourceSha256": "eaf2e011add64cd6e9edb1897ebdaf293b798e65b0b858dcfa7d2db689a2aa35",
+    "reviewEvidence": {
+      "pageTitle": "Home | Hemvati Nandan Bahuguna Garhwal University",
+      "candidateKey": "Q10994963-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q492467": {
+    "sourceUrl": "https://www.auckland.ac.nz/etc.clientlibs/uoa-digital/clientlibs/resources/svg/favicon.svg",
+    "sourcePage": "https://www.auckland.ac.nz/en.html",
+    "rightsUrl": "https://www.auckland.ac.nz/en.html",
+    "artist": "University of Auckland",
+    "description": "Official homepage identity for University of Auckland; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q492467-0.b20bbb6e3cf53618.original",
+    "sourceSha256": "b20bbb6e3cf536189907e15133f038c579c77665392c02e737f51c25a214087c",
+    "reviewEvidence": {
+      "pageTitle": "Waipapa Taumata Rau – University of AucklandFacebookLinkedInInstagramYouTubeWomen's RefugeFacebookLinkedInInstagramYouTube",
+      "candidateKey": "Q492467-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q13164": {
+    "sourceUrl": "https://msu.ru/favicon.ico",
+    "sourcePage": "https://msu.ru/",
+    "rightsUrl": "https://msu.ru/",
+    "artist": "Lomonosov Moscow State University",
+    "description": "Official homepage identity for Lomonosov Moscow State University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q13164-0.6b35dd03033f4203.original",
+    "sourceSha256": "6b35dd03033f4203291f0f523c7275b5f884bb719d90af006403f09f25f43eb3",
+    "sourceFormat": "ico",
+    "reviewEvidence": {
+      "pageTitle": "",
+      "candidateKey": "Q13164-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1517021": {
+    "sourceUrl": "https://www.uwa.edu.au/_assets/favicon180.png",
+    "sourcePage": "https://www.uwa.edu.au/home",
+    "rightsUrl": "https://www.uwa.edu.au/home",
+    "artist": "University of Western Australia",
+    "description": "Official homepage identity for University of Western Australia; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1517021-1.e3b902ce8557927d.original",
+    "sourceSha256": "e3b902ce8557927dd83d9812cc4a8a845c9fa83bd5bd72a3cd603726e8dd9b50",
+    "reviewEvidence": {
+      "pageTitle": "The University of Western Australia | UWA",
+      "candidateKey": "Q1517021-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q371522": {
+    "sourceUrl": "https://www.gu.se/themes/custom/gu_theme_ruby/dist/images/favicons/apple-touch-icon.png",
+    "sourcePage": "https://www.gu.se/",
+    "rightsUrl": "https://www.gu.se/",
+    "artist": "University of Gothenburg",
+    "description": "Official homepage identity for University of Gothenburg; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q371522-0.1fe421dd8370e441.original",
+    "sourceSha256": "1fe421dd8370e44188d92dbb3f6fa2240e1d5da0f0d7bad915aaec3e50e5fafc",
+    "reviewEvidence": {
+      "pageTitle": "Hem | Göteborgs universitet",
+      "candidateKey": "Q371522-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q2034790": {
+    "sourceUrl": "https://english.ecnu.edu.cn/images/logo-1.svg",
+    "sourcePage": "https://english.ecnu.edu.cn/",
+    "rightsUrl": "https://english.ecnu.edu.cn/",
+    "artist": "East China Normal University",
+    "description": "Official homepage identity for East China Normal University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q2034790-1.e7d1cc9aeca9ff9e.original",
+    "sourceSha256": "e7d1cc9aeca9ff9e21b05e67d7edb7c20c8206de52e73d1ff0730ce9f5a1259c",
+    "reviewEvidence": {
+      "pageTitle": "East China Normal University",
+      "candidateKey": "Q2034790-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1463036": {
+    "sourceUrl": "https://www.kaust.edu.sa/ResourcePackages/KAUSTMain/assets/dist/images/kaust-logo.svg",
+    "sourcePage": "https://www.kaust.edu.sa/en/",
+    "rightsUrl": "https://www.kaust.edu.sa/en/",
+    "artist": "King Abdullah University of Science and Technology",
+    "description": "Official homepage identity for King Abdullah University of Science and Technology; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1463036-0.08f8b64a1b01d005.original",
+    "sourceSha256": "08f8b64a1b01d005d4e3da6efb006a4cfb30ff11187e0d1201bea3cfb41a4386",
+    "reviewEvidence": {
+      "pageTitle": "\r\n\tKAUST | A top research university in the Middle East \r\n",
+      "candidateKey": "Q1463036-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1108197": {
+    "sourceUrl": "https://www.whu.edu.cn/new2024/js/logo.png",
+    "sourcePage": "https://www.whu.edu.cn/",
+    "rightsUrl": "https://www.whu.edu.cn/",
+    "artist": "Wuhan University",
+    "description": "Official homepage identity for Wuhan University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1108197-0.32fc6fa119b63b22.original",
+    "sourceSha256": "32fc6fa119b63b22b488fb817dc6000c978729c38abcb7dc947f741aa07fecfa",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "武汉大学",
+      "candidateKey": "Q1108197-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1191833": {
+    "sourceUrl": "https://umanitoba.ca/themes/custom/umanitoba/apple-touch-icon.png",
+    "sourcePage": "https://umanitoba.ca/",
+    "rightsUrl": "https://umanitoba.ca/",
+    "artist": "University of Manitoba",
+    "description": "Official homepage identity for University of Manitoba; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1191833-0.3dc9e458b6acc87d.original",
+    "sourceSha256": "3dc9e458b6acc87dce484217b708e7b9e2770b70b37850434d2e233a1b004626",
+    "reviewEvidence": {
+      "pageTitle": "University of Manitoba",
+      "candidateKey": "Q1191833-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q204457": {
+    "sourceUrl": "https://www4.uib.no/themes/custom/uib/public/image/logo-uib-dark.svg",
+    "sourcePage": "https://www4.uib.no/",
+    "rightsUrl": "https://www4.uib.no/",
+    "artist": "University of Bergen",
+    "description": "Official homepage identity for University of Bergen; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q204457-0.d5289a5da141d2e1.original",
+    "sourceSha256": "d5289a5da141d2e18fd465a2a789fcdb5ee6fe98df221fea5dce2590512b82ef",
+    "reviewEvidence": {
+      "pageTitle": "Universitetet i Bergen | UiB",
+      "candidateKey": "Q204457-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1070333": {
+    "sourceUrl": "https://www.uark.edu/_resources/includes-22/assets/icons/apple-touch-icon-57x57.png",
+    "sourcePage": "https://www.uark.edu/",
+    "rightsUrl": "https://www.uark.edu/",
+    "artist": "University of Arkansas",
+    "description": "Official homepage identity for University of Arkansas; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1070333-0.a56b1ccdcbd78bd9.original",
+    "sourceSha256": "a56b1ccdcbd78bd98c8ccc9710147d5fcc167fb4b1527ffb7d5e77a431971cc7",
+    "reviewEvidence": {
+      "pageTitle": "University of ArkansasImagine",
+      "candidateKey": "Q1070333-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1514848": {
+    "sourceUrl": "https://www.usask.ca/_images/logos/usask-logo-lg.png",
+    "sourcePage": "https://www.usask.ca/",
+    "rightsUrl": "https://www.usask.ca/",
+    "artist": "University of Saskatchewan",
+    "description": "Official homepage identity for University of Saskatchewan; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1514848-0.1014b5fb401fd30c.original",
+    "sourceSha256": "1014b5fb401fd30c7ec4c9b12abeac8f435f2a79911d5786bb7b7dd09f250151",
+    "reviewEvidence": {
+      "pageTitle": "University of SaskatchewanGamechangersBe What the World NeedsBe What the World Needs",
+      "candidateKey": "Q1514848-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1144565": {
+    "sourceUrl": "https://www.umu.se/Static/img/umu-logo-SE.svg",
+    "sourcePage": "https://www.umu.se/",
+    "rightsUrl": "https://www.umu.se/",
+    "artist": "Umeå University",
+    "description": "Official homepage identity for Umeå University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1144565-1.56162d5d1ac68464.original",
+    "sourceSha256": "56162d5d1ac68464d123102cdd07a84b34b3d6357fc5295177d404fc635dfd7a",
+    "reviewEvidence": {
+      "pageTitle": "Umeå universitet",
+      "candidateKey": "Q1144565-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q948720": {
+    "sourceUrl": "https://www.iisc.ac.in/wp-content/themes/iisc/images/favicon/apple-icon-180x180.png",
+    "sourcePage": "https://www.iisc.ac.in/",
+    "rightsUrl": "https://www.iisc.ac.in/",
+    "artist": "Indian Institute of Science, Bengaluru",
+    "description": "Official homepage identity for Indian Institute of Science, Bengaluru; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q948720-0.31b6ffd5f1a89602.original",
+    "sourceSha256": "31b6ffd5f1a89602619dcffd9d24d61ebe8331d6a07e8631ae487f58830526a9",
+    "reviewEvidence": {
+      "pageTitle": "Indian Institute of Science",
+      "candidateKey": "Q948720-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q875637": {
+    "sourceUrl": "https://www.wm.edu/apple-touch-icon.png",
+    "sourcePage": "https://www.wm.edu/",
+    "rightsUrl": "https://www.wm.edu/",
+    "artist": "College of William & Mary",
+    "description": "Official homepage identity for College of William & Mary; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q875637-0.39337f7f562522b7.original",
+    "sourceSha256": "39337f7f562522b7c1dfaaee1ace2ff9308725904d785a671663e874212c1cf6",
+    "reviewEvidence": {
+      "pageTitle": "William & Mary",
+      "candidateKey": "Q875637-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q27621": {
+    "sourceUrl": "https://spbu.ru/themes/spbgu/markup/dist/apple-touch-icon-57x57.png",
+    "sourcePage": "https://spbu.ru/",
+    "rightsUrl": "https://spbu.ru/",
+    "artist": "Saint Petersburg State University",
+    "description": "Official homepage identity for Saint Petersburg State University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q27621-0.6337c7d00d68922f.original",
+    "sourceSha256": "6337c7d00d68922f809778c5783f74198598c86865eafd5f1ab037cded17f3b4",
+    "reviewEvidence": {
+      "pageTitle": "Главная | Санкт-Петербургский государственный университет",
+      "candidateKey": "Q27621-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q317053": {
+    "sourceUrl": "https://www.uni-giessen.de/++theme++jlu-giessen-plone-6-theme/++theme++jlu-giessen-plone-6-theme/images/logo.png",
+    "sourcePage": "https://www.uni-giessen.de/de",
+    "rightsUrl": "https://www.uni-giessen.de/de",
+    "artist": "University of Giessen",
+    "description": "Official homepage identity for University of Giessen; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q317053-0.c5ca4aa6fedfd11b.original",
+    "sourceSha256": "c5ca4aa6fedfd11bccc047eb5bd8f4935cc0106bff33ff263cade1db4cb4e882",
+    "reviewEvidence": {
+      "pageTitle": "Justus-Liebig-Universität Gießen — JLU GießenDirekte Links / direct linksSuch-Icon / search icon Open NavigationSuch-Icon / Such-Icon Direkte Links / direct linksJLU auf InstagramJLU auf LinkedinJLU auf BlueskyJLU auf MastodonJLU auf YouTubeJLU auf Facebook",
+      "candidateKey": "Q317053-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1138384": {
+    "sourceUrl": "https://olemiss.edu/assets/favicons/2026/red_crest_192x192.png",
+    "sourcePage": "https://olemiss.edu/",
+    "rightsUrl": "https://olemiss.edu/",
+    "artist": "University of Mississippi",
+    "description": "Official homepage identity for University of Mississippi; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1138384-0.283ba5c44a0ec22e.original",
+    "sourceSha256": "283ba5c44a0ec22e807d0a6679e8f75404fab7f714e35312c762532cba2e6bd5",
+    "reviewEvidence": {
+      "pageTitle": "\n\t\t\tUniversity of  Mississippi | Ole Miss\n\t\t",
+      "candidateKey": "Q1138384-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1145731": {
+    "sourceUrl": "https://www.uts.edu.au/globalassets/resizer/restricted/media/all-pages-sitewide/header/restricteduts-alt-logoheader.svg",
+    "sourcePage": "https://www.uts.edu.au/",
+    "rightsUrl": "https://www.uts.edu.au/",
+    "artist": "University of Technology Sydney",
+    "description": "Official homepage identity for University of Technology Sydney; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1145731-0.f02de49e3f7d844a.original",
+    "sourceSha256": "f02de49e3f7d844a2e522d5d4eaef5a654d600af714b267519a3185cb1f9e444",
+    "reviewEvidence": {
+      "pageTitle": "UTS | University of Technology Sydney | #7 in Australia | Top 100 globally",
+      "candidateKey": "Q1145731-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1150437": {
+    "sourceUrl": "https://www.wgtn.ac.nz/__data/assets/git_bridge/0005/1778018/dist/images/apple-touch-icon.png",
+    "sourcePage": "https://www.wgtn.ac.nz/",
+    "rightsUrl": "https://www.wgtn.ac.nz/",
+    "artist": "Victoria University of Wellington",
+    "description": "Official homepage identity for Victoria University of Wellington; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1150437-0.011c1cb042765239.original",
+    "sourceSha256": "011c1cb042765239cfcf0f2564d4a37b8c4bcb652ac622ee9c42b3c5eb3c18c0",
+    "reviewEvidence": {
+      "pageTitle": " Te Herenga Waka—Victoria University of Wellington",
+      "candidateKey": "Q1150437-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q734774": {
+    "sourceUrl": "https://www.slu.edu/ico/apple-touch-icon.png",
+    "sourcePage": "https://www.slu.edu/",
+    "rightsUrl": "https://www.slu.edu/",
+    "artist": "Saint Louis University",
+    "description": "Official homepage identity for Saint Louis University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q734774-0.4608845aeaed7f3a.original",
+    "sourceSha256": "4608845aeaed7f3a992059c2e1623540f3c689c2220943a4c11dece385c0c0b0",
+    "reviewEvidence": {
+      "pageTitle": "Saint Louis University | SLU.edu : SLU - Saint Louis UniversityPreviousNext",
+      "candidateKey": "Q734774-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q6806307": {
+    "sourceUrl": "https://www.mcw.edu/-/media/MCW/Main/Navigation/Logos/MCW/header-logo.svg?la=en&hash=EE3325A45DB20244F9C2B70876F4DCD1",
+    "sourcePage": "https://www.mcw.edu/",
+    "rightsUrl": "https://www.mcw.edu/",
+    "artist": "Medical College of Wisconsin",
+    "description": "Official homepage identity for Medical College of Wisconsin; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q6806307-0.478134c542d58fc7.original",
+    "sourceSha256": "478134c542d58fc747462d02f55fb557d3cc6f4a3ff80124834531ea014a14e8",
+    "reviewEvidence": {
+      "pageTitle": "Home  | Medical College of Wisconsin",
+      "candidateKey": "Q6806307-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1859178": {
+    "sourceUrl": "https://www.strath.ac.uk/media/1newwebsite/favicon/xapple-touch-icon.png,q20180627.pagespeed.ic.6DdtSMVOG0.png",
+    "sourcePage": "https://www.strath.ac.uk/",
+    "rightsUrl": "https://www.strath.ac.uk/",
+    "artist": "University of Strathclyde",
+    "description": "Official homepage identity for University of Strathclyde; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1859178-0.6aa3ea5539e91974.original",
+    "sourceSha256": "6aa3ea5539e91974839ce428b6b3a353d81130aa9bbf452738e5c8177e335f8d",
+    "reviewEvidence": {
+      "pageTitle": "University of Strathclyde, Glasgow",
+      "candidateKey": "Q1859178-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1350021": {
+    "sourceUrl": "https://www.uow.edu.au/assets/logos/logo-svgs/logo-horizontal.svg",
+    "sourcePage": "https://www.uow.edu.au/",
+    "rightsUrl": "https://www.uow.edu.au/",
+    "artist": "University of Wollongong",
+    "description": "Official homepage identity for University of Wollongong; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1350021-0.ab244de709dcc0f0.original",
+    "sourceSha256": "ab244de709dcc0f0c0946253e7dc346e6a111afe0c855efef87d20ecefcd2724",
+    "reviewEvidence": {
+      "pageTitle": "University of Wollongong – UOW - A world-class University",
+      "candidateKey": "Q1350021-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q593321": {
+    "sourceUrl": "https://unige.it/themes/custom/unige_theme/images/logo_orizzontale_WHITE.svg",
+    "sourcePage": "https://unige.it/",
+    "rightsUrl": "https://unige.it/",
+    "artist": "University of Genoa",
+    "description": "Official homepage identity for University of Genoa; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q593321-0.e748cbeeb4169ef3.original",
+    "sourceSha256": "e748cbeeb4169ef31ecaa044184319b95c05dc047f3bd272ea6d5e47af020a51",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "Università degli Studi di Genova | UniGe",
+      "candidateKey": "Q593321-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1232180": {
+    "sourceUrl": "https://www.ugr.es/themes/custom/ugr/icon/apple-touch-icon.png",
+    "sourcePage": "https://www.ugr.es/",
+    "rightsUrl": "https://www.ugr.es/",
+    "artist": "University of Granada",
+    "description": "Official homepage identity for University of Granada; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1232180-0.044a9dfe50db2d72.original",
+    "sourceSha256": "044a9dfe50db2d72caf62ba55f1b503a170977094a34bd83a4e3b2ab8350b0ec",
+    "reviewEvidence": {
+      "pageTitle": "Página de inicio | Universidad de Granada",
+      "candidateKey": "Q1232180-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q986087": {
+    "sourceUrl": "https://www.zjut.edu.cn/_upload/site/00/04/4/logo.png",
+    "sourcePage": "https://www.zjut.edu.cn/",
+    "rightsUrl": "https://www.zjut.edu.cn/",
+    "artist": "Zhejiang University of Technology",
+    "description": "Official homepage identity for Zhejiang University of Technology; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q986087-0.6bc97d56327d5a57.original",
+    "sourceSha256": "6bc97d56327d5a57706017f0423a325d1c0de1ceec20b6e650e71b2fafefdf4d",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "浙江工业大学",
+      "candidateKey": "Q986087-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q835662": {
+    "sourceUrl": "https://www.uni-ulm.de/_assets/a92153751098915699a1afa17e77f864/Images/logo-uni-ulm.svg?1789464465",
+    "sourcePage": "https://www.uni-ulm.de/en/",
+    "rightsUrl": "https://www.uni-ulm.de/en/",
+    "artist": "Ulm University",
+    "description": "Official homepage identity for Ulm University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q835662-0.7241608fcc0140a2.original",
+    "sourceSha256": "7241608fcc0140a2eef3f1367395c9302e970db439f8c99ebe6d77f3fc839d56",
+    "reviewEvidence": {
+      "pageTitle": "Ulm University Research, Study, Knowledge transfer - Universität Ulm",
+      "candidateKey": "Q835662-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1142924": {
+    "sourceUrl": "https://www.um.edu.my/images/img-logo-UM.png",
+    "sourcePage": "https://www.um.edu.my/",
+    "rightsUrl": "https://www.um.edu.my/",
+    "artist": "Universiti Malaya",
+    "description": "Official homepage identity for Universiti Malaya; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1142924-0.961821549701b4f4.original",
+    "sourceSha256": "961821549701b4f4c8e012d1366afacd70269f6438e02996d448e4b1b468c6f5",
+    "reviewEvidence": {
+      "pageTitle": "Welcome to Universiti Malaya",
+      "candidateKey": "Q1142924-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q6806451": {
+    "sourceUrl": "https://d3crna64wemw02.cloudfront.net/image/339713052848/image_h86hhgm2b51d7b1f6e8ausmm23/-FPNG-S150",
+    "sourcePage": "https://www.musc.edu/",
+    "rightsUrl": "https://www.musc.edu/",
+    "artist": "Medical University of South Carolina",
+    "description": "Official homepage identity for Medical University of South Carolina; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q6806451-0.549a1ff81f3fa00b.original",
+    "sourceSha256": "549a1ff81f3fa00bbc1ecbe19696248d356b4f5cda395245b3c859c65ef38389",
+    "background": "#243247",
+    "reviewEvidence": {
+      "pageTitle": "MUSC | The Medical University of South Carolina",
+      "candidateKey": "Q6806451-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1439629": {
+    "sourceUrl": "https://www.providence.edu/wp-content/uploads/sites/131/2019/09/cropped-favicon-192x192.png",
+    "sourcePage": "https://www.providence.edu/",
+    "rightsUrl": "https://www.providence.edu/",
+    "artist": "Providence College",
+    "description": "Official homepage identity for Providence College; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1439629-0.3966a1ff0edf6bed.original",
+    "sourceSha256": "3966a1ff0edf6bedecedce28d11b82c0d1549b23981be934c440d561d9a84c15",
+    "reviewEvidence": {
+      "pageTitle": "Providence College | A Catholic College in Rhode Island and New England",
+      "candidateKey": "Q1439629-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q501841": {
+    "sourceUrl": "https://www.utu.fi/sites/default/files/assets/images/apple-touch-icon.png",
+    "sourcePage": "https://www.utu.fi/fi",
+    "rightsUrl": "https://www.utu.fi/fi",
+    "artist": "University of Turku",
+    "description": "Official homepage identity for University of Turku; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q501841-0.c897b58ac2af5e84.original",
+    "sourceSha256": "c897b58ac2af5e84077068ea3c68db82200ae3c43266d9e1afe392510ff3ddab",
+    "reviewEvidence": {
+      "pageTitle": "Turun yliopisto",
+      "candidateKey": "Q501841-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q2060678": {
+    "sourceUrl": "https://www.unicamp.br/wp-content/uploads/sites/33/2024/03/cropped-logo_unicamp_512-192x192.png",
+    "sourcePage": "https://www.unicamp.br/",
+    "rightsUrl": "https://www.unicamp.br/",
+    "artist": "University of Campinas",
+    "description": "Official homepage identity for University of Campinas; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q2060678-0.6388b18aa2fbb8f6.original",
+    "sourceSha256": "6388b18aa2fbb8f664bebae59c8565405b9e2b4ff148ca76616a3cb47c99acbf",
+    "reviewEvidence": {
+      "pageTitle": " Portal Unicamp ",
+      "candidateKey": "Q2060678-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1377": {
+    "sourceUrl": "https://www.uni-lj.si/_resources/themes/uni/images/favicon/apple-touch-icon.png?m=1709547504",
+    "sourcePage": "https://www.uni-lj.si/",
+    "rightsUrl": "https://www.uni-lj.si/",
+    "artist": "University of Ljubljana",
+    "description": "Official homepage identity for University of Ljubljana; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1377-0.a7d07dd8c5a9dec1.original",
+    "sourceSha256": "a7d07dd8c5a9dec1d80fd25ee715655c17571d6867255e2110cc5cb0da16e5e1",
+    "reviewEvidence": {
+      "pageTitle": "Univerza v Ljubljani",
+      "candidateKey": "Q1377-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q603686": {
+    "sourceUrl": "https://www.hkbu.edu.hk/content/dam/hongkongbaptistuniversity/logo/hkbu/svg/HKBU-logo-side-menu.svg",
+    "sourcePage": "https://www.hkbu.edu.hk/",
+    "rightsUrl": "https://www.hkbu.edu.hk/",
+    "artist": "Hong Kong Baptist University",
+    "description": "Official homepage identity for Hong Kong Baptist University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q603686-0.3faa1f9e300f80c8.original",
+    "sourceSha256": "3faa1f9e300f80c856e92ccf135d3766a377fb08a3fc6fd02a6986ae14108b6a",
+    "reviewEvidence": {
+      "pageTitle": "Hong Kong Baptist University – HKBU",
+      "candidateKey": "Q603686-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1661242": {
+    "sourceUrl": "https://www.iitb.ac.in/sites/default/files/IITBLogo.png",
+    "sourcePage": "https://www.iitb.ac.in/",
+    "rightsUrl": "https://www.iitb.ac.in/",
+    "artist": "Indian Institute of Technology Bombay",
+    "description": "Official homepage identity for Indian Institute of Technology Bombay; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1661242-0.4cb9403c2cb1632e.original",
+    "sourceSha256": "4cb9403c2cb1632ea83a760af96d44bbdefefbba484160d676d4da7f5260a20c",
+    "reviewEvidence": {
+      "pageTitle": "Home | भारतीय प्रौद्योगिकी संस्थान मुंबई",
+      "candidateKey": "Q1661242-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1312762": {
+    "sourceUrl": "https://www.slu.se/SLU-Logotype-rgb-bg-180x180px.png",
+    "sourcePage": "https://www.slu.se/",
+    "rightsUrl": "https://www.slu.se/",
+    "artist": "Swedish University of Agricultural Sciences",
+    "description": "Official homepage identity for Swedish University of Agricultural Sciences; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1312762-0.0a37e0adffba347d.original",
+    "sourceSha256": "0a37e0adffba347dc7870f3716cf947bc771efcb5b2bd8a3b78e6a4c8a4f1987",
+    "reviewEvidence": {
+      "pageTitle": "SLU – Science and Education for Sustainable Life",
+      "candidateKey": "Q1312762-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1307345": {
+    "sourceUrl": "https://umaine.edu/wp-content/themes/um/assets/img/favicon/apple-touch-icon-114x114.png",
+    "sourcePage": "https://umaine.edu/",
+    "rightsUrl": "https://umaine.edu/",
+    "artist": "University of Maine",
+    "description": "Official homepage identity for University of Maine; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1307345-1.a9fa547cf154ad4d.original",
+    "sourceSha256": "a9fa547cf154ad4d3a9bd146108119504d1d284e044623ad05f3c86aa5323465",
+    "reviewEvidence": {
+      "pageTitle": "The University of MaineUMaine FacebookUMaine YouTubeUMaine InstagramUMaine LinkedInUMaine TikTokPlayPlayInstagram post linkInstagram post linkTikTok video linkInstagram post linkYouTube video linkYouTube video linkInstagram post link",
+      "candidateKey": "Q1307345-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1357517": {
+    "sourceUrl": "https://www.oulu.fi/sites/default/files/favicons/apple-touch-icon.png",
+    "sourcePage": "https://www.oulu.fi/fi",
+    "rightsUrl": "https://www.oulu.fi/fi",
+    "artist": "University of Oulu",
+    "description": "Official homepage identity for University of Oulu; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1357517-0.22d1686f72f36f14.original",
+    "sourceSha256": "22d1686f72f36f145e734842c1110c790b9246fec6f42f471ffa999aec66ba4c",
+    "reviewEvidence": {
+      "pageTitle": "Oulun yliopistoOulun yliopiston etusivuFacebookInstagramYoutubeLinkedInBluesky",
+      "candidateKey": "Q1357517-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1752043": {
+    "sourceUrl": "https://ksu.edu.sa/_next/image?url=%2Fksu_logo.png&w=384&q=75",
+    "sourcePage": "https://ksu.edu.sa/",
+    "rightsUrl": "https://ksu.edu.sa/",
+    "artist": "King Saud University",
+    "description": "Official homepage identity for King Saud University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1752043-0.9b5acb344f555b7b.original",
+    "sourceSha256": "9b5acb344f555b7bcd1aa6866dfe5a4adf71987bf81e4a730fbba4b0310e5505",
+    "reviewEvidence": {
+      "pageTitle": "جامعة الملك سعود | King Saud University",
+      "candidateKey": "Q1752043-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1516684": {
+    "sourceUrl": "https://www.kent.ac.uk/kent-theme-assets/assets/images/favicons/apple-touch-icon.png?1790339616",
+    "sourcePage": "https://www.kent.ac.uk/",
+    "rightsUrl": "https://www.kent.ac.uk/",
+    "artist": "University of Kent",
+    "description": "Official homepage identity for University of Kent; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1516684-0.ca3e3f69fc09a6de.original",
+    "sourceSha256": "ca3e3f69fc09a6de222d9c7d40fffe17e913cbfcd36c089d3021e50bb6804570",
+    "reviewEvidence": {
+      "pageTitle": "Welcome to Kent - University of Kentdesign2arrow rightarrow rightThe University of KentSearch iconclosecloseSearch iconarrow rightlocation-signSearch iconarrow rightlocation-signSearch iconarrow rightlocation-signSearch iconarrow rightlocation-signSearch iconarrow rightlocation-signSearch iconcloseclosedesign4arrow rightarrow rightdesign4arrow rightarrow rightdesign4arrow rightarrow rightSearch iconarrow rightlocation-signarrow rightarrow rightarrow rightarrow rightarrow rightThe University of Kent",
+      "candidateKey": "Q1516684-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1758474": {
+    "sourceUrl": "https://www.unipr.it/themes/custom/unipr_2025/assets/favicon/apple-touch-icon.png",
+    "sourcePage": "https://www.unipr.it/",
+    "rightsUrl": "https://www.unipr.it/",
+    "artist": "University of Parma",
+    "description": "Official homepage identity for University of Parma; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1758474-0.da21986d0e0f3fd0.original",
+    "sourceSha256": "da21986d0e0f3fd056b4926a589128f4e1f4d6e30ee900e8d87df4b9f676ffa6",
+    "reviewEvidence": {
+      "pageTitle": "Università degli studi di Parma",
+      "candidateKey": "Q1758474-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1480421": {
+    "sourceUrl": "https://www.du.ac.bd/fontView/assets/img/dulogo-black.png",
+    "sourcePage": "https://www.du.ac.bd/",
+    "rightsUrl": "https://www.du.ac.bd/",
+    "artist": "University of Dhaka",
+    "description": "Official homepage identity for University of Dhaka; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1480421-1.b3854139b240ec3a.original",
+    "sourceSha256": "b3854139b240ec3a2005ab50750c3a646379417d6a7d2f24e8fc116ea8460614",
+    "reviewEvidence": {
+      "pageTitle": " Home :: Dhaka University ",
+      "candidateKey": "Q1480421-1",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q139901": {
+    "sourceUrl": "https://core.cdn.nau.edu/nauthemes/assets/favicons/external/apple-touch-icon.png",
+    "sourcePage": "https://nau.edu/",
+    "rightsUrl": "https://nau.edu/",
+    "artist": "Northern Arizona University",
+    "description": "Official homepage identity for Northern Arizona University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q139901-0.256497f3e9abe781.original",
+    "sourceSha256": "256497f3e9abe781008ed60b4299dc3d25c450388b6aa68b56209f2c2d3d6971",
+    "reviewEvidence": {
+      "pageTitle": "NAU | Bachelor's, Graduate, & Online Degrees",
+      "candidateKey": "Q139901-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1641504": {
+    "sourceUrl": "https://www.unipa.it/.content/immagini/hp_new/logo-unipa-2023.png",
+    "sourcePage": "https://www.unipa.it/",
+    "rightsUrl": "https://www.unipa.it/",
+    "artist": "University of Palermo",
+    "description": "Official homepage identity for University of Palermo; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1641504-0.0790bb4567e1dab0.original",
+    "sourceSha256": "0790bb4567e1dab085df63a1501fba0d50f097a4242b705ddcd1ca55854e8056",
+    "reviewEvidence": {
+      "pageTitle": "Università degli Studi di Palermo",
+      "candidateKey": "Q1641504-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q727516": {
+    "sourceUrl": "https://ukzn.ac.za/wp-content/uploads/2022/12/cropped-Transp_bg-1-192x192.png",
+    "sourcePage": "https://ukzn.ac.za/",
+    "rightsUrl": "https://ukzn.ac.za/",
+    "artist": "University of KwaZulu-Natal",
+    "description": "Official homepage identity for University of KwaZulu-Natal; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q727516-0.5b60df2e6a184002.original",
+    "sourceSha256": "5b60df2e6a1840026f1ec311f067ca43c7d9d0fc2e14e86f796cbb88deca1567",
+    "reviewEvidence": {
+      "pageTitle": "UKZN – University of KwaZulu-Natal",
+      "candidateKey": "Q727516-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q159895": {
+    "sourceUrl": "https://www.uni-rostock.de/_assets/907c87f83a7758bda0a4fba273a558a9/Images/rostock_logo.png",
+    "sourcePage": "https://www.uni-rostock.de/",
+    "rightsUrl": "https://www.uni-rostock.de/",
+    "artist": "University of Rostock",
+    "description": "Official homepage identity for University of Rostock; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q159895-0.c6d8b713f78fb8c4.original",
+    "sourceSha256": "c6d8b713f78fb8c47769ba4ad8997ce6e6f52f9f3b1fa026c4a22116a81b7591",
+    "reviewEvidence": {
+      "pageTitle": "Startseite - Universität Rostock",
+      "candidateKey": "Q159895-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1661243": {
+    "sourceUrl": "https://www.iitkgp.ac.in/assets/pages/images/logo.png",
+    "sourcePage": "https://www.iitkgp.ac.in/",
+    "rightsUrl": "https://www.iitkgp.ac.in/",
+    "artist": "Indian Institute of Technology Kharagpur",
+    "description": "Official homepage identity for Indian Institute of Technology Kharagpur; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1661243-0.d17fa92cbe9fcc4e.original",
+    "sourceSha256": "d17fa92cbe9fcc4eccc01c2ad5d1db5450e836e3323ec32ddca8b86969f8d3a3",
+    "reviewEvidence": {
+      "pageTitle": "Indian Institute of Technology Kharagpur | IIT KGP",
+      "candidateKey": "Q1661243-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q41114": {
+    "sourceUrl": "https://www.ewha.ac.kr/_res/ewha/img/favicon/apple-icon-180x180.png",
+    "sourcePage": "https://www.ewha.ac.kr/ewha/index.do",
+    "rightsUrl": "https://www.ewha.ac.kr/ewha/index.do",
+    "artist": "Ewha Womans University",
+    "description": "Official homepage identity for Ewha Womans University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q41114-0.2aa7fbb70b99fef8.original",
+    "sourceSha256": "2aa7fbb70b99fef8411fa7e8a7de955074802744ab2f4d7014b3a9b761393463",
+    "reviewEvidence": {
+      "pageTitle": "이화여자대학교",
+      "candidateKey": "Q41114-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1191344": {
+    "sourceUrl": "https://niu.edu/masterto/themes/Theme_4_0/common/images/niu-logo-homepage.png",
+    "sourcePage": "https://www.niu.edu/index.shtml",
+    "rightsUrl": "https://www.niu.edu/index.shtml",
+    "artist": "Northern Illinois University",
+    "description": "Official homepage identity for Northern Illinois University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1191344-0.dfbefc867bac71f6.original",
+    "sourceSha256": "dfbefc867bac71f6f5a4d18719424ed55e536894779458ba39e69fcffbaf1bce",
+    "reviewEvidence": {
+      "pageTitle": "\r\n\t\t\tNorthern Illinois University | Your Future. Our Focus.\r\n\t\t",
+      "candidateKey": "Q1191344-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q319761": {
+    "sourceUrl": "https://www.aber.ac.uk/img/icons/apple-touch-icon.png",
+    "sourcePage": "https://www.aber.ac.uk/en/",
+    "rightsUrl": "https://www.aber.ac.uk/en/",
+    "artist": "Aberystwyth University",
+    "description": "Official homepage identity for Aberystwyth University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q319761-0.a711c39d012bf0eb.original",
+    "sourceSha256": "a711c39d012bf0eb076200fc435ed853af237f8b2e3b045da2c6554c49e8711f",
+    "reviewEvidence": {
+      "pageTitle": "Aberystwyth University",
+      "candidateKey": "Q319761-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q578326": {
+    "sourceUrl": "https://www.jyu.fi/themes/custom/jyu/images/icons/favicons/apple-touch-icon.png",
+    "sourcePage": "https://www.jyu.fi/fi",
+    "rightsUrl": "https://www.jyu.fi/fi",
+    "artist": "University of Jyväskylä",
+    "description": "Official homepage identity for University of Jyväskylä; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q578326-0.b9d507338c67478a.original",
+    "sourceSha256": "b9d507338c67478a7c7d452ede252d05f0bdfdcc2a7bddbffbcd09d1b7f15674",
+    "reviewEvidence": {
+      "pageTitle": "Jyväskylän yliopiston verkkosivujen etusivu | Jyväskylän yliopisto",
+      "candidateKey": "Q578326-0",
+      "reviewDate": "2026-09-27"
+    }
+  },
+  "Q1771717": {
+    "sourceUrl": "https://www.pdx.edu/themes/custom/pdxd8/psulogo_horiz-spot.svg",
+    "sourcePage": "https://www.pdx.edu/",
+    "rightsUrl": "https://www.pdx.edu/",
+    "artist": "Portland State University",
+    "description": "Official homepage identity for Portland State University; reviewed against the homepage title and downloaded image.",
+    "cacheFile": "Q1771717-0.8478b7ae693262df.original",
+    "sourceSha256": "8478b7ae693262df906a3f41966f32e5d4af89043476ee3b17b832443d3a6a92",
+    "reviewEvidence": {
+      "pageTitle": "Homepage | Portland State University",
+      "candidateKey": "Q1771717-0",
+      "reviewDate": "2026-09-27"
+    }
+  }
+}

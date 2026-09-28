@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://university-rank.example/schemas/release-v1",
+  "definitions": {
+    "id": { "type": "string", "pattern": "^Q[1-9][0-9]*$" },
+    "release": { "type": "string", "pattern": "^sample-[0-9]{8}T[0-9]{6}Z$" },
+    "names": {
+      "type": "object", "additionalProperties": false, "required": ["en", "zh"],
+      "properties": { "en": { "type": "string", "minLength": 1 }, "zh": { "type": "string", "minLength": 1 } }
+    },
+    "url": { "type": "string", "pattern": "^https?://[^\\s]+$" },
+    "localUrl": { "type": "string", "pattern": "^/(data|media)/sample-[0-9]{8}T[0-9]{6}Z/[a-zA-Z0-9_./-]+$" },
+    "metrics": {
+      "type": "object", "additionalProperties": false,
+      "required": ["reputation", "academic", "financial", "faculty", "alumnus"],
+      "properties": {
+        "reputation": { "type": "number", "minimum": 0, "maximum": 1 },
+        "academic": { "type": "number", "minimum": 0, "maximum": 1 },
+        "financial": { "type": "number", "minimum": 0, "maximum": 1 },
+        "faculty": { "type": "number", "minimum": 0, "maximum": 1 },
+        "alumnus": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "manifest": {
+      "type": "object", "additionalProperties": false,
+      "required": ["schemaVersion", "release", "kind", "generatedAt", "sourceSnapshot", "universityIds", "scoring", "excludedModules", "files"],
+      "properties": {
+        "schemaVersion": { "const": "1.0.0" }, "release": { "$ref": "#/definitions/release" },
+        "kind": { "const": "sample" }, "generatedAt": { "type": "string" },
+        "sourceSnapshot": { "type": "string", "pattern": "^[0-9]{8}$" },
+        "universityIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/definitions/id" } },
+        "excludedModules": { "const": ["campusPhotos", "news"] },
+        "scoring": {
+          "type": "object", "additionalProperties": false,
+          "required": ["id", "status", "formula", "weights", "rankPolicy", "sourceUniverseSize", "completeUniverse"],
+          "properties": {
+            "id": { "type": "string" }, "status": { "const": "unreviewed" },
+            "formula": { "const": "weighted-sum" }, "weights": { "$ref": "#/definitions/metrics" },
+            "rankPolicy": { "const": "source-ordinal" }, "sourceUniverseSize": { "type": "integer", "minimum": 1 },
+            "completeUniverse": { "const": false }
+          }
+        },
+        "files": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["path", "bytes", "sha256"],
+            "properties": {
+              "path": { "$ref": "#/definitions/localUrl" }, "bytes": { "type": "integer", "minimum": 1 },
+              "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+            }
+          }
+        }
+      }
+    },
+    "core": {
+      "type": "object", "additionalProperties": false, "required": ["schemaVersion", "release", "kind", "universities"],
+      "properties": {
+        "schemaVersion": { "const": "1.0.0" }, "release": { "$ref": "#/definitions/release" }, "kind": { "const": "sample" },
+        "universities": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "additionalProperties": false,
+            "required": ["id", "names", "countryCode", "continent", "metrics", "sourceScore", "sourceRank", "logo"],
+            "properties": {
+              "id": { "$ref": "#/definitions/id" }, "names": { "$ref": "#/definitions/names" },
+              "countryCode": { "anyOf": [{ "type": "string", "pattern": "^[A-Z]{2}$" }, { "type": "null" }] },
+              "continent": { "type": ["string", "null"] }, "metrics": { "$ref": "#/definitions/metrics" },
+              "sourceScore": { "type": "number", "minimum": 0, "maximum": 1 }, "sourceRank": { "type": "integer", "minimum": 1 },
+              "logo": {
+                "anyOf": [{ "type": "null" }, {
+                  "type": "object", "additionalProperties": false, "required": ["url", "sourceUrl", "sourceName"],
+                  "properties": { "url": { "$ref": "#/definitions/localUrl" }, "sourceUrl": { "$ref": "#/definitions/url" }, "sourceName": { "type": "string" } }
+                }]
+              }
+            }
+          }
+        }
+      }
+    },
+    "profile": {
+      "type": "object", "additionalProperties": false,
+      "required": ["schemaVersion", "release", "id", "locale", "name", "description", "descriptionLanguage", "website", "wikiUrl", "coordinates", "sourceSnapshot"],
+      "properties": {
+        "schemaVersion": { "const": "1.0.0" }, "release": { "$ref": "#/definitions/release" }, "id": { "$ref": "#/definitions/id" },
+        "locale": { "enum": ["en", "zh"] }, "name": { "type": "string", "minLength": 1 }, "description": { "type": "string" },
+        "descriptionLanguage": { "enum": ["en", "zh"] },
+        "website": { "anyOf": [{ "$ref": "#/definitions/url" }, { "type": "null" }] },
+        "wikiUrl": { "anyOf": [{ "$ref": "#/definitions/url" }, { "type": "null" }] },
+        "sourceSnapshot": { "type": "string", "pattern": "^[0-9]{8}$" },
+        "coordinates": {
+          "anyOf": [{ "type": "null" }, {
+            "type": "object", "additionalProperties": false, "required": ["latitude", "longitude"],
+            "properties": { "latitude": { "type": "number", "minimum": -90, "maximum": 90 }, "longitude": { "type": "number", "minimum": -180, "maximum": 180 } }
+          }]
+        }
+      }
+    },
+    "alumni": {
+      "type": "object", "additionalProperties": false,
+      "required": ["schemaVersion", "release", "universityId", "sampling", "sprite", "people"],
+      "properties": {
+        "schemaVersion": { "const": "1.0.0" }, "release": { "$ref": "#/definitions/release" }, "universityId": { "$ref": "#/definitions/id" },
+        "sampling": {
+          "type": "object", "additionalProperties": false, "required": ["seed", "method", "poolLimit", "poolSize", "limit"],
+          "properties": {
+            "seed": { "type": "string", "minLength": 1 }, "method": { "const": "sha256-order-within-top-influence-pool" },
+            "poolLimit": { "type": "integer", "minimum": 1 }, "poolSize": { "type": "integer", "minimum": 0 }, "limit": { "type": "integer", "minimum": 1, "maximum": 64 }
+          }
+        },
+        "sprite": {
+          "anyOf": [{ "type": "null" }, {
+            "type": "object", "additionalProperties": false, "required": ["url", "width", "height"],
+            "properties": { "url": { "$ref": "#/definitions/localUrl" }, "width": { "type": "integer", "minimum": 1 }, "height": { "type": "integer", "minimum": 1 } }
+          }]
+        },
+        "people": {
+          "type": "array", "maxItems": 64,
+          "items": {
+            "type": "object", "additionalProperties": false,
+            "required": ["id", "names", "description", "descriptionLanguage", "imageSourceUrl", "relationshipSource", "relationshipVersion", "relationshipVerified", "rect"],
+            "properties": {
+              "id": { "$ref": "#/definitions/id" }, "names": { "$ref": "#/definitions/names" }, "description": { "type": "string" },
+              "descriptionLanguage": { "const": "en" }, "imageSourceUrl": { "$ref": "#/definitions/url" },
+              "relationshipSource": { "const": "dev.university_alumnus.educated_at" }, "relationshipVersion": { "type": "string" }, "relationshipVerified": { "const": false },
+              "rect": {
+                "type": "object", "additionalProperties": false, "required": ["x", "y", "width", "height"],
+                "properties": { "x": { "type": "integer", "minimum": 0 }, "y": { "type": "integer", "minimum": 0 }, "width": { "const": 120 }, "height": { "const": 150 } }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

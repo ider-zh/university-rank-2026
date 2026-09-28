@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://api.toop.ai/v1",
+  "model": "qwen3.8-27b",
+  "apiKey": "",
+  "concurrency": 2,
+  "timeoutSeconds": 120
+}

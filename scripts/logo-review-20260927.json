@@ -1,0 +1,35 @@
+{
+  "reviewDate": "2026-09-27",
+  "accepted": [
+    "Q1074103-0", "Q197543-0",
+    "Q192334-1", "Q178972-1", "Q15568-0", "Q487556-1", "Q230899-0",
+    "Q1711196-0", "Q182973-0", "Q866012-0", "Q254204-0", "Q604470-0",
+    "Q1432030-0", "Q2031560-0", "Q32746-0", "Q721064-0", "Q503424-0",
+    "Q16947-0", "Q5088072-0", "Q3631316-0", "Q153978-0", "Q1604022-0",
+    "Q270272-0", "Q45612-0", "Q10994963-0", "Q492467-0", "Q13164-0",
+    "Q1517021-1", "Q371522-0", "Q2034790-1", "Q1463036-0", "Q1108197-0",
+    "Q1191833-0", "Q204457-0", "Q1070333-0", "Q1514848-0", "Q1144565-1",
+    "Q948720-0", "Q875637-0", "Q27621-0", "Q317053-0", "Q1138384-0",
+    "Q1145731-0", "Q1150437-0", "Q734774-0", "Q6806307-0", "Q1859178-0",
+    "Q1350021-0", "Q593321-0", "Q1232180-0", "Q986087-0", "Q835662-0",
+    "Q1142924-0", "Q6806451-0", "Q1439629-0", "Q501841-0", "Q2060678-0",
+    "Q1377-0", "Q603686-0", "Q1661242-0", "Q1312762-0", "Q1307345-1",
+    "Q1357517-0", "Q1752043-0", "Q1516684-0", "Q1758474-0", "Q1480421-1",
+    "Q139901-0", "Q1641504-0", "Q727516-0", "Q159895-0", "Q1661243-0",
+    "Q41114-0", "Q1191344-0", "Q319761-0", "Q578326-0", "Q1771717-0"
+  ],
+  "darkBackground": ["Q1711196-0", "Q254204-0", "Q604470-0", "Q2031560-0", "Q16947-0", "Q1108197-0", "Q593321-0", "Q986087-0", "Q6806451-0"],
+  "rejected": {
+    "Q15576": "Official URL redirects to Adelaide University: successor identity, not the listed University of South Australia",
+    "Q310695": "Candidates are university alliances, not TU Darmstadt identity",
+    "Q536512": "Candidate is an alliance mark, not James Cook University identity",
+    "Q1333303": "35th-anniversary variants, not permanent university identity",
+    "Q547867": "Anniversary and app promotion artwork",
+    "Q188370": "Candidate is a Jesuit education association badge, not the university logo",
+    "Q951305": "Mark occupies too little of the image to be legible",
+    "Q7418428": "Very wide institutional banner / campus advertisement, unsuitable for list logo",
+    "Q761534": "Only low-resolution 48px icon discovered",
+    "Q282097": "Only low-resolution 48px icon discovered",
+    "Q1574185": "Small icon; alternate SVG contains embedded image and needs separate safe review"
+  }
+}

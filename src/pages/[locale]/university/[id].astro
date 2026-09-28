@@ -1,0 +1,62 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { universities, profileFor, countryName, dataUrl, metricNames, type Locale } from '../../../lib/data';
+import { catalogProfileFor, catalogMedia } from '../../../lib/catalog';
+import Infobox from '../../../components/Infobox';
+import SchoolHeader from '../../../components/SchoolHeader';
+import { introductionFor } from '../../../lib/content';
+import SchoolOverview, { overviewTeaser } from '../../../components/SchoolOverview';
+import UsSupplement from '../../../components/UsSupplement';
+import { overviewFor } from '../../../lib/supplements';
+import { catalogRelease } from '../../../lib/catalog';
+export function getStaticPaths() {
+  return ['zh', 'en'].flatMap(locale => universities.map(university => ({ params: { locale, id: university.id }, props: { university } })));
+}
+const locale = Astro.params.locale as Locale;
+const zh = locale === 'zh';
+const { university } = Astro.props;
+const profile = profileFor(university.id, locale);
+const catalogDetail = catalogProfileFor(university.id);
+const media = catalogMedia.universities[university.id];
+const introduction = introductionFor(university.id);
+const overview=overviewFor(university.id);
+const teaser=overviewTeaser(overview,locale);
+---
+<Layout title={profile.name} locale={locale} alternate={`/${zh ? 'en' : 'zh'}/university/${university.id}/`}>
+  <a href={`/${locale}/#rankings`} class="mt-10 inline-block text-sm text-muted underline-offset-4 hover:underline">← {zh ? '大学排名' : 'University rankings'}</a>
+  <SchoolHeader name={profile.name} englishName={university.names.en} id={university.id}
+    country={countryName(university.countryCode, locale) || ''} locale={locale}
+    description={teaser.text||profile.description} descriptionLanguage={teaser.text?teaser.language:profile.descriptionLanguage}
+    website={profile.website} wikiUrl={profile.wikiUrl} media={media} introduction={introduction} polishedSummary={zh?overview?.polish?.summary:undefined} client:load />
+  <SchoolOverview value={overview} locale={locale} sourceUrl={overview?.paragraphs[locale]?.length?profile.wikiUrl:catalogDetail.profiles.en.wikiUrl} />
+  {['US','PR','GU','VI','AS','MP'].includes(university.countryCode||'')&&<UsSupplement id={university.id} release={catalogRelease} locale={locale} client:visible />}
+  <Infobox profile={catalogDetail.profiles[locale]} locale={locale} snapshot={catalogDetail.sourceSnapshot} />
+  <section class="border-t border-line py-9">
+    <div class="mb-7 flex flex-wrap items-center justify-between gap-3">
+      <h2 class="text-lg font-semibold">{zh ? '五维表现' : 'Academic profile'}</h2>
+      <p class="text-xs text-muted">{zh ? '本站名次' : 'Site rank'} {catalogDetail.university.siteRank ?? catalogDetail.university.sourceRank} · {zh ? '综合分' : 'Score'} {(university.sourceScore * 100).toFixed(2)} / 100</p>
+    </div>
+    <div class="grid grid-cols-2 gap-4 md:grid-cols-5">
+      {Object.entries(university.metrics).map(([key, value]) => (
+        <div class="rounded-lg border border-line bg-white/60 px-5 py-6">
+          <p class="text-xs text-muted">{metricNames[locale][key as keyof typeof metricNames.zh]}</p>
+          <p class="display mt-3 text-3xl tabular-nums">{(value * 100).toFixed(2)}</p>
+          <div class="mt-4 h-1 overflow-hidden rounded-full bg-line"><div class="h-full bg-ink/70" style={`width:${value * 100}%`}></div></div>
+        </div>
+      ))}
+    </div>
+    <p class="mt-5 text-xs leading-6 text-muted">{zh ? `显示分数为原始指标 × 100；本站名次在精选大学集合内计算，原始数据名次 ${catalogDetail.university.sourceRank} 保留用于溯源。` : `Displayed scores equal source metrics × 100. Site rank applies to the selected universities; original source rank ${catalogDetail.university.sourceRank} is retained for provenance.`}</p>
+  </section>
+  <section class="border-t border-line py-9">
+    <details data-alumni data-url={`${dataUrl}/universities/${university.id}/alumni.json`} data-locale={locale} data-release={dataUrl.split('/').pop()}>
+      <summary class="flex items-center justify-between gap-4 py-2 text-lg font-semibold"><span>{zh ? '校友与人物' : 'Alumni & people'}</span><span class="text-sm font-normal text-muted">{zh ? '展开查看 ↓' : 'Explore ↓'}</span></summary>
+      <p class="mt-3 max-w-2xl text-sm leading-7 text-muted">{zh ? '通过人物样本，探索与这所大学相关的教育经历。样本固定抽取自已有教育关联记录，涵盖学位学习、进修等经历；具体关联关系待逐项核验。' : 'Explore a sample of people with education links to this university. The fixed sample draws from existing records spanning degree study, further study, and other educational experiences; individual links await verification.'}</p>
+      <div data-status role="status" aria-live="polite" class="py-6 text-sm text-muted"></div>
+      <button data-retry type="button" hidden class="mb-6 rounded border border-line px-4 py-2 text-sm">{zh ? '重新加载' : 'Try again'}</button>
+      <div data-people class="alumni-grid mt-4"></div>
+    </details>
+  </section>
+  <script>
+    import '../../../scripts/alumni';
+  </script>
+</Layout>

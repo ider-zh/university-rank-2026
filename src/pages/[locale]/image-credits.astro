@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { catalogMedia, catalogUniversities } from '../../lib/catalog';
+import type { Locale } from '../../lib/catalog-types';
+
+export function getStaticPaths() {
+  return ['zh', 'en'].map(locale => ({ params: { locale } }));
+}
+const locale = Astro.params.locale as Locale;
+const zh = locale === 'zh';
+const entries = catalogUniversities.flatMap(university => {
+  const media = catalogMedia.universities[university.id];
+  return (['logo', 'hero'] as const).flatMap(kind => {
+    const asset = media?.[kind];
+    return asset ? [{ university, kind, asset }] : [];
+  });
+});
+---
+<Layout title={zh ? '图片来源与授权' : 'Image credits & licenses'} locale={locale} alternate={`/${zh ? 'en' : 'zh'}/image-credits/`}>
+  <a href={`/${locale}/`} class="mt-10 inline-block text-sm text-muted underline underline-offset-4">← {zh ? '大学排名' : 'University rankings'}</a>
+  <header class="max-w-3xl py-10">
+    <h1 class="display text-3xl md:text-4xl">{zh ? '图片来源与授权' : 'Image credits & licenses'}</h1>
+    <p class="mt-5 text-sm leading-7 text-muted">{zh
+      ? '查看校徽与校园照片的原始来源、作者及授权信息。图片用于识别和介绍相关学校；使用时请同时遵循图像许可及相关校名、校徽和商标的使用规范。'
+      : 'Explore the sources, authors, and licensing information for university logos and campus photographs. Images identify and introduce universities; use is subject to both image licenses and the applicable rules for university names, emblems, and trademarks.'}</p>
+    <p class="mt-3 text-sm leading-7 text-muted">{zh
+      ? '本地副本已缩放并转为 WebP；SVG 校徽已栅格化。校园主图按页面布局展示裁切，保留原始照片内容。请通过“原始来源”查看原作及完整授权信息。'
+      : 'Local copies are resized and converted to WebP; SVG logos are rasterized. Campus photographs may be cropped for display, without substituting institutions or adding fictional scenery. Follow “Original source” for the original work and complete licensing information.'}</p>
+    <p class="mt-3 text-xs text-muted">{zh ? `当前资源包：${entries.length} 张图片` : `Current image bundle: ${entries.length} images`}</p>
+    <p class="mt-3 text-sm leading-7 text-muted">{zh
+      ? '部分标识来自学校官方网站，已逐项标注“保留所有权利”。这些标识仅作为当前开发预览的院校识别素材；未取得开放许可，不代表学校授权或背书。公开分发前须另行核验使用权限。'
+      : 'Some identity marks come from official university websites and are individually marked “All rights reserved”. They are retained for identification in this development preview. No open license, permission, or endorsement is claimed. Rights must be reviewed before public distribution.'}</p>
+  </header>
+  {entries.length === 0 ? (
+    <p role="status" class="rounded-lg border border-line p-6 text-sm text-muted">{zh ? '本地图片资源包尚未生成，来源与授权信息将在图片就绪后列出。' : 'The local image bundle has not been generated yet. Credits will appear when images are available.'}</p>
+  ) : (
+    <div class="divide-y divide-line border-y border-line">
+      {entries.map(({ university, kind, asset }) => (
+        <section id={`${university.id}-${kind}`} class="grid scroll-mt-6 gap-4 py-6 md:grid-cols-[1fr_2fr]">
+          <div>
+            <h2 class="font-semibold">{university.names[locale]}</h2>
+            <p class="mt-1 text-xs text-muted">{university.id} · {kind === 'logo' ? (zh ? '校徽 / Logo' : 'Logo / emblem') : (zh ? '校园照片' : 'Campus photograph')}</p>
+          </div>
+          <div class="min-w-0 text-sm leading-7 [overflow-wrap:anywhere]">
+            <p>{zh ? '作者：' : 'Author: '}{asset.artist || (zh ? '参见原始来源' : 'See original source')}</p>
+            {asset.attribution && asset.attribution !== asset.artist && <p class="text-muted">{asset.attribution}</p>}
+            <p>{zh ? '授权：' : 'License: '}{asset.licenseUrl ? (
+              <a href={asset.licenseUrl} target="_blank" rel="noreferrer" class="underline underline-offset-4">{asset.license === 'All rights reserved' && zh ? '保留所有权利（非开放许可）' : asset.license || (zh ? '查看授权' : 'View license')}</a>
+            ) : (asset.license || (zh ? '参见原始来源' : 'See original source'))}</p>
+            <div class="mt-1 flex flex-wrap gap-x-5 gap-y-1">
+              <a href={asset.sourcePage || asset.sourceUrl} target="_blank" rel="noreferrer" class="underline underline-offset-4">{zh ? '原始来源' : 'Original source'} ↗</a>
+              <a href={asset.url} class="underline underline-offset-4">{zh ? '本地图片副本' : 'Local image copy'}</a>
+            </div>
+          </div>
+        </section>
+      ))}
+    </div>
+  )}
+</Layout>

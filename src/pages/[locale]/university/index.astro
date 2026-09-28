@@ -1,0 +1,14 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import UniversityDetail from '../../../components/UniversityDetail';
+import { catalogUrl, catalogRelease, mediaUrl } from '../../../lib/catalog';
+import { introductionIds } from '../../../lib/content';
+import type { Locale } from '../../../lib/catalog-types';
+export function getStaticPaths(){return ['zh','en'].map(locale=>({params:{locale}}));}
+const locale=Astro.params.locale as Locale;
+---
+<Layout title={locale==='zh'?'大学资料':'University profile'} locale={locale} alternate={`/${locale==='zh'?'en':'zh'}/university/`}>
+  <a class="mt-10 inline-block text-sm text-muted underline-offset-4 hover:underline" href={`/${locale}/#rankings`}>← {locale==='zh'?'大学排名':'University rankings'}</a>
+  <UniversityDetail locale={locale} baseUrl={catalogUrl} release={catalogRelease} mediaUrl={mediaUrl} introductionIds={introductionIds} client:load />
+  <noscript>{locale==='zh'?'此资料页需要启用 JavaScript 来读取学校的静态数据。':'Enable JavaScript to load this university’s static profile.'}</noscript>
+</Layout>

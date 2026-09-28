@@ -1,0 +1,1988 @@
+{
+  "release": "catalog-20260913T072051Z",
+  "total": 1000,
+  "covered": 783,
+  "missing": 217,
+  "tiers": {
+    "50": {
+      "covered": 50,
+      "total": 50,
+      "percent": 100.0
+    },
+    "100": {
+      "covered": 94,
+      "total": 100,
+      "percent": 94.0
+    },
+    "200": {
+      "covered": 178,
+      "total": 200,
+      "percent": 89.0
+    },
+    "500": {
+      "covered": 441,
+      "total": 500,
+      "percent": 88.2
+    },
+    "1000": {
+      "covered": 783,
+      "total": 1000,
+      "percent": 78.3
+    }
+  },
+  "unresolved": [
+    {
+      "id": "Q2281517",
+      "name": "四川大学",
+      "rank": 55,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q738236",
+      "name": "新加坡国立大学",
+      "rank": 57,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q6544465",
+      "name": "中国科学院大学",
+      "rank": 58,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 401\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q621043",
+      "name": "艾默理大学",
+      "rank": 74,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q15570",
+      "name": "香港中文大学",
+      "rank": 90,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q640694",
+      "name": "阿尔伯塔大学",
+      "rank": 98,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q761534",
+      "name": "佐治亚大学",
+      "rank": 109,
+      "candidateCount": 1,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Only low-resolution 48px icon discovered"
+    },
+    {
+      "id": "Q7418428",
+      "name": "Sanjay Gandhi Post Graduate Institute of Medical Sciences",
+      "rank": 118,
+      "candidateCount": 4,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Very wide institutional banner / campus advertisement, unsuitable for list logo"
+    },
+    {
+      "id": "Q6911272",
+      "name": "莫尔豪斯医学院",
+      "rank": 128,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1144951",
+      "name": "Texas A&M University at Qatar",
+      "rank": 135,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q3519221",
+      "name": "班加罗尔大学",
+      "rank": 138,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (35) OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to bangaloreuniversity.ac.in:443 \n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q3521052",
+      "name": "安得拉大学",
+      "rank": 140,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18001 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q632891",
+      "name": "麦马士达大学",
+      "rank": 147,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q671642",
+      "name": "马拉维大学",
+      "rank": 148,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q4182",
+      "name": "魏茨曼科学研究所",
+      "rank": 159,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (52) Empty reply from server\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q3443159",
+      "name": "费城科学大学",
+      "rank": 160,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q787360",
+      "name": "香港城市大学",
+      "rank": 161,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q924265",
+      "name": "奥胡斯大学",
+      "rank": 168,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q5094823",
+      "name": "Chhatrapati Shahu Ji Maharaj University",
+      "rank": 173,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q193510",
+      "name": "帕多瓦大学",
+      "rank": 177,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q221645",
+      "name": "斯德哥尔摩大学",
+      "rank": 193,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (52) Empty reply from server\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1187271",
+      "name": "香港理工大学",
+      "rank": 199,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (52) Empty reply from server\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q837164",
+      "name": "纽卡斯尔大学",
+      "rank": 219,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q46210",
+      "name": "米兰大学",
+      "rank": 241,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1068258",
+      "name": "都柏林大学",
+      "rank": 249,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q282097",
+      "name": "俄勒冈州卫生科学大学",
+      "rank": 251,
+      "candidateCount": 1,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Only low-resolution 48px icon discovered"
+    },
+    {
+      "id": "Q597236",
+      "name": "华盛顿州立大学",
+      "rank": 254,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q392667",
+      "name": "威克森林大学",
+      "rank": 262,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q2030894",
+      "name": "阿尔伯特·爱因斯坦医学院",
+      "rank": 265,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q951305",
+      "name": "开普敦大学",
+      "rank": 267,
+      "candidateCount": 2,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Mark occupies too little of the image to be legible"
+    },
+    {
+      "id": "Q691851",
+      "name": "那不勒斯费德里科二世大学",
+      "rank": 287,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q820887",
+      "name": "佛罗伦萨大学",
+      "rank": 294,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q547867",
+      "name": "雅典大学",
+      "rank": 308,
+      "candidateCount": 7,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Anniversary and app promotion artwork"
+    },
+    {
+      "id": "Q749718",
+      "name": "奥克拉荷马州立大学",
+      "rank": 340,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1144750",
+      "name": "昆士兰科技大学",
+      "rank": 347,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q534643",
+      "name": "金山大学",
+      "rank": 348,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q40006",
+      "name": "汉阳大学",
+      "rank": 350,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q7896431",
+      "name": "德克萨斯大学休斯顿医学中心",
+      "rank": 351,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q143451",
+      "name": "中佛罗里达大学",
+      "rank": 352,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1574185",
+      "name": "科克大学学院",
+      "rank": 356,
+      "candidateCount": 4,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Small icon; alternate SVG contains embedded image and needs separate safe review"
+    },
+    {
+      "id": "Q4005868",
+      "name": "德克萨斯大学圣安东尼奥医学中心",
+      "rank": 367,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q6039999",
+      "name": "癌症研究院",
+      "rank": 374,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1052614",
+      "name": "犹他州立学院",
+      "rank": 382,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1333303",
+      "name": "香港科技大学",
+      "rank": 390,
+      "candidateCount": 6,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "35th-anniversary variants, not permanent university identity"
+    },
+    {
+      "id": "Q1202292",
+      "name": "格里菲斯大学",
+      "rank": 402,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q962011",
+      "name": "塔斯马尼亚大学",
+      "rank": 419,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q310695",
+      "name": "达姆施塔特工业大学",
+      "rank": 431,
+      "candidateCount": 5,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Candidates are university alliances, not TU Darmstadt identity"
+    },
+    {
+      "id": "Q1478723",
+      "name": "拉特罗布大学",
+      "rank": 432,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1074117",
+      "name": "中国人民大学",
+      "rank": 436,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q737835",
+      "name": "德黑兰大学",
+      "rank": 447,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q531285",
+      "name": "纽卡斯尔大学",
+      "rank": 453,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q229022",
+      "name": "圣心天主教大学",
+      "rank": 461,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q675848",
+      "name": "萨格勒布大学",
+      "rank": 465,
+      "candidateCount": 5,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q787234",
+      "name": "斯文本科技大学",
+      "rank": 469,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q49166",
+      "name": "威廉姆斯学院",
+      "rank": 476,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q536512",
+      "name": "詹姆士库克大学",
+      "rank": 478,
+      "candidateCount": 6,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Candidate is an alliance mark, not James Cook University identity"
+    },
+    {
+      "id": "Q1751060",
+      "name": "的里雅斯特大学",
+      "rank": 482,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 405\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q644478",
+      "name": "高威大学",
+      "rank": 487,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q15576",
+      "name": "南澳大学",
+      "rank": 492,
+      "candidateCount": 8,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Official URL redirects to Adelaide University: successor identity, not the listed University of South Australia"
+    },
+    {
+      "id": "Q1202039",
+      "name": "皇家哈洛威学院",
+      "rank": 501,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18001 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q15575",
+      "name": "弗林德斯大学",
+      "rank": 503,
+      "candidateCount": 10,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q188370",
+      "name": "马凯特大学",
+      "rank": 506,
+      "candidateCount": 3,
+      "status": "rejected-on-review",
+      "error": null,
+      "reviewReason": "Candidate is a Jesuit education association badge, not the university logo"
+    },
+    {
+      "id": "Q7896420",
+      "name": "田纳西大学健康科学中心",
+      "rank": 507,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1795928",
+      "name": "阿卜杜勒阿齐兹国王大学",
+      "rank": 510,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 404\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1466001",
+      "name": "维拉诺瓦大学",
+      "rank": 535,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q261506",
+      "name": "马凯雷雷大学",
+      "rank": 536,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1245999",
+      "name": "锡耶纳大学",
+      "rank": 552,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q772421",
+      "name": "伦敦大学圣乔治学院",
+      "rank": 554,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q2093110",
+      "name": "德克萨斯大学艾尔帕索分校",
+      "rank": 559,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q706712",
+      "name": "国立台湾师范大学",
+      "rank": 562,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q469482",
+      "name": "贝鲁特美国大学",
+      "rank": 565,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q734324",
+      "name": "布伦瑞克工业大学",
+      "rank": 567,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1243705",
+      "name": "摩德纳雷焦艾米利亚大学",
+      "rank": 571,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 405\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q806116",
+      "name": "贝拿勒斯印度大学",
+      "rank": 573,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q712849",
+      "name": "国立政治大学",
+      "rank": 575,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q181177",
+      "name": "克兰菲尔德大学",
+      "rank": 586,
+      "candidateCount": 13,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1888771",
+      "name": "曼彻斯特都会大学",
+      "rank": 588,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1179603",
+      "name": "德保罗大学",
+      "rank": 590,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q968559",
+      "name": "北达科他大学",
+      "rank": 593,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2003976",
+      "name": "瓦伦西亚理工大学",
+      "rank": 595,
+      "candidateCount": 11,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3366382",
+      "name": "印度理工学院鲁尔基校区",
+      "rank": 607,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1458579",
+      "name": "马来西亚博特拉大学",
+      "rank": 617,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q992830",
+      "name": "圣塔克拉拉大学",
+      "rank": 630,
+      "candidateCount": 14,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1444125",
+      "name": "马来西亚国民大学",
+      "rank": 631,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q707573",
+      "name": "国立中兴大学",
+      "rank": 633,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1848657",
+      "name": "塔尔萨大学",
+      "rank": 634,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1627967",
+      "name": "利物浦约翰摩尔斯大学",
+      "rank": 636,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q606140",
+      "name": "怀卡托大学",
+      "rank": 640,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2503794",
+      "name": "诺森比亚大学",
+      "rank": 641,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q344334",
+      "name": "伊斯坦布尔理工大学",
+      "rank": 642,
+      "candidateCount": 12,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q624090",
+      "name": "南密西西比大学",
+      "rank": 643,
+      "candidateCount": 13,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1973130",
+      "name": "马来西亚理科大学",
+      "rank": 645,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1124228",
+      "name": "爱尔兰皇家外科医学院",
+      "rank": 646,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q573954",
+      "name": "利默里克大学",
+      "rank": 647,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1495387",
+      "name": "Texas State University-San Marcos",
+      "rank": 653,
+      "candidateCount": 8,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3518863",
+      "name": "印度理工学院古瓦哈蒂校区",
+      "rank": 655,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q685664",
+      "name": "辅仁大学",
+      "rank": 658,
+      "candidateCount": 5,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q487804",
+      "name": "东国大学",
+      "rank": 661,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 404\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1321380",
+      "name": "北卡罗来纳大学Greensboro",
+      "rank": 662,
+      "candidateCount": 9,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1549932",
+      "name": "旁遮普大学",
+      "rank": 665,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q491711",
+      "name": "世宗大学",
+      "rank": 672,
+      "candidateCount": 11,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q835075",
+      "name": "汕头大学",
+      "rank": 681,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q782682",
+      "name": "印度理工学院坎普尔校区",
+      "rank": 683,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q32751",
+      "name": "国立中山大学",
+      "rank": 685,
+      "candidateCount": 11,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2579702",
+      "name": "贾达珀大学",
+      "rank": 686,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q2096604",
+      "name": "谢里夫科技大学",
+      "rank": 687,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q699543",
+      "name": "国立台湾科技大学",
+      "rank": 690,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1057447",
+      "name": "罗马林达大学",
+      "rank": 692,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1972050",
+      "name": "约翰内斯堡大学",
+      "rank": 695,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1462246",
+      "name": "帕特雷大学",
+      "rank": 699,
+      "candidateCount": 14,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1343885",
+      "name": "蒙特雷科技大学",
+      "rank": 702,
+      "candidateCount": 8,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q491082",
+      "name": "亚洲大学",
+      "rank": 704,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2092392",
+      "name": "戴顿大学",
+      "rank": 711,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q896267",
+      "name": "海峡大学",
+      "rank": 717,
+      "candidateCount": 9,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1186843",
+      "name": "布达佩斯技术与经济大学",
+      "rank": 721,
+      "candidateCount": 5,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2302260",
+      "name": "南达科塔州立大学",
+      "rank": 725,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q805122",
+      "name": "鲍尔州立大学",
+      "rank": 726,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1284960",
+      "name": "伊迪丝·考恩大学",
+      "rank": 729,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q6423659",
+      "name": "纳克斯维尔学院",
+      "rank": 730,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q841581",
+      "name": "索非亚大学",
+      "rank": 734,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1538727",
+      "name": "昂热大学",
+      "rank": 736,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1797817",
+      "name": "汉普顿大学",
+      "rank": 737,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 15911 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q954035",
+      "name": "布拉德福德大学",
+      "rank": 741,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1309998",
+      "name": "瓦雷泽-科莫因苏布里亚大学",
+      "rank": 744,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q5952880",
+      "name": "淡江大学",
+      "rank": 746,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q534515",
+      "name": "印度尼西亚大学",
+      "rank": 747,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (52) Empty reply from server\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q707140",
+      "name": "中国文化大学",
+      "rank": 748,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q262663",
+      "name": "圣迭戈大学",
+      "rank": 756,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q116485",
+      "name": "路易斯安那大学拉法叶分校",
+      "rank": 757,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1998811",
+      "name": "西北大学",
+      "rank": 763,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2620177",
+      "name": "圣十字学院",
+      "rank": 767,
+      "candidateCount": 15,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2047109",
+      "name": "真纳大学",
+      "rank": 769,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1191166",
+      "name": "海得拉巴大学",
+      "rank": 770,
+      "candidateCount": 5,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2601879",
+      "name": "梅努斯大学",
+      "rank": 771,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q56837",
+      "name": "国家核子研究大学",
+      "rank": 772,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q7685655",
+      "name": "塔比阿特莫达勒斯大学",
+      "rank": 774,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3273657",
+      "name": "科威特大学",
+      "rank": 776,
+      "candidateCount": 10,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q13334",
+      "name": "奥尔良大学",
+      "rank": 777,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1665121",
+      "name": "格勒诺布尔科技学院",
+      "rank": 779,
+      "candidateCount": 9,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3135913",
+      "name": "浦那大学",
+      "rank": 783,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q491127",
+      "name": "檀国大学",
+      "rank": 787,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q702499",
+      "name": "奥斯纳布吕克大学",
+      "rank": 788,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q649998",
+      "name": "内罗毕大学",
+      "rank": 792,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q666128",
+      "name": "印第安纳州立大学",
+      "rank": 794,
+      "candidateCount": 9,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1856423",
+      "name": "共和国大学",
+      "rank": 799,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q620640",
+      "name": "阿帕拉契大学",
+      "rank": 806,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q950609",
+      "name": "新加坡管理大学",
+      "rank": 807,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1959511",
+      "name": "国立高等经济学院",
+      "rank": 808,
+      "candidateCount": 5,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1066188",
+      "name": "查尔斯史都华大学",
+      "rank": 809,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q2322256",
+      "name": "伯南布哥州联邦大学",
+      "rank": 810,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1061504",
+      "name": "斯德哥尔摩经济学院",
+      "rank": 814,
+      "candidateCount": 13,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q750639",
+      "name": "拉许大学",
+      "rank": 815,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2119752",
+      "name": "乌尔比诺大学",
+      "rank": 816,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (56) OpenSSL SSL_read: OpenSSL/3.0.13: error:0A000119:SSL routines::decryption failed or bad record mac, errno 0\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1391755",
+      "name": "那慕尔大学",
+      "rank": 818,
+      "candidateCount": 19,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1238770",
+      "name": "亚的斯亚贝巴大学",
+      "rank": 822,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1544739",
+      "name": "阿联酋国立大学",
+      "rank": 824,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q137503",
+      "name": "罗兹大学",
+      "rank": 827,
+      "candidateCount": 15,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2340211",
+      "name": "印度国立伊斯兰大学",
+      "rank": 832,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q978124",
+      "name": "南昆士兰大学",
+      "rank": 833,
+      "candidateCount": 8,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q4115110",
+      "name": "伊朗科技大学",
+      "rank": 834,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1927705",
+      "name": "三一学院",
+      "rank": 836,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q7813941",
+      "name": "东京医科大学",
+      "rank": 837,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (35) OpenSSL/3.0.13: error:0A00018A:SSL routines::dh key too small\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q3075124",
+      "name": "特伦特大学",
+      "rank": 838,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2840233",
+      "name": "里约热内卢州立大学",
+      "rank": 847,
+      "candidateCount": 8,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3182943",
+      "name": "伯恩茅斯大学",
+      "rank": 855,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q581046",
+      "name": "福冈大学",
+      "rank": 858,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1052208",
+      "name": "新墨西哥矿业及科技学院",
+      "rank": 859,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q624959",
+      "name": "佐治亚南方大学",
+      "rank": 861,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2392351",
+      "name": "利兹都会大学",
+      "rank": 862,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q3176886",
+      "name": "菲律宾迪里曼大学",
+      "rank": 864,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1896148",
+      "name": "格林威治大学",
+      "rank": 865,
+      "candidateCount": 9,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q475700",
+      "name": "西开普大学",
+      "rank": 867,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1064071",
+      "name": "查尔斯·达尔文大学",
+      "rank": 871,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q892188",
+      "name": "邦德大学",
+      "rank": 873,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q5018694",
+      "name": "蒙特克莱尔州立大学",
+      "rank": 875,
+      "candidateCount": 0,
+      "status": "no-candidates",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1153094",
+      "name": "上智大学",
+      "rank": 877,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1378",
+      "name": "马里博尔大学",
+      "rank": 884,
+      "candidateCount": 10,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1678733",
+      "name": "自由邦大学",
+      "rank": 887,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1769401",
+      "name": "挪威运动科学学院",
+      "rank": 888,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q113788",
+      "name": "喀山联邦大学",
+      "rank": 890,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q4568903",
+      "name": "帕克大学",
+      "rank": 897,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1857293",
+      "name": "里约热内卢天主教大学",
+      "rank": 898,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1277357",
+      "name": "爱丁堡龙比亚大学",
+      "rank": 902,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2092358",
+      "name": "奥斯马尼亚大学",
+      "rank": 905,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q7895024",
+      "name": "University of Agriculture Faisalabad",
+      "rank": 907,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q502545",
+      "name": "马什哈德大学",
+      "rank": 908,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1782980",
+      "name": "拉各斯大学",
+      "rank": 914,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1263535",
+      "name": "诺维萨德大学",
+      "rank": 915,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q540751",
+      "name": "安格里亚鲁斯金大学",
+      "rank": 919,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1781094",
+      "name": "北艾奥瓦大学",
+      "rank": 923,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q4095278",
+      "name": "玛尼帕尔高等教育学院",
+      "rank": 924,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1783608",
+      "name": "北科罗拉多大学",
+      "rank": 925,
+      "candidateCount": 7,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1782948",
+      "name": "田纳西州立大学",
+      "rank": 929,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q650167",
+      "name": "巴布森学院",
+      "rank": 930,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q7896167",
+      "name": "波多黎各大学里约皮德拉斯校区",
+      "rank": 933,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18001 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q6689304",
+      "name": "什里夫波特路易斯安那州立大学健康科学中心",
+      "rank": 936,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (35) OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.lsuhscshreveport.edu:443 \n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1278780",
+      "name": "南十字星大学",
+      "rank": 937,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1916637",
+      "name": "卡罗尔达维拉医药大学",
+      "rank": 940,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "itimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above.\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1465448",
+      "name": "布加勒斯特科技大学",
+      "rank": 941,
+      "candidateCount": 15,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q401034",
+      "name": "艾哈迈杜·贝洛大学",
+      "rank": 945,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q3275551",
+      "name": "安纳马莱大学",
+      "rank": 946,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Connection timed out after 18002 milliseconds\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q1815710",
+      "name": "德拉萨大学",
+      "rank": 949,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1661751",
+      "name": "卡拉奇大学",
+      "rank": 952,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q487177",
+      "name": "国民大学",
+      "rank": 962,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q7367225",
+      "name": "罗莎琳德富兰克林医学大学",
+      "rank": 963,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q615154",
+      "name": "卡托维兹西里西亚大学",
+      "rank": 964,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (28) Operation timed out after 18000 milliseconds with 0 bytes received\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q337382",
+      "name": "阿卡迪亚大学",
+      "rank": 971,
+      "candidateCount": 3,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q2738646",
+      "name": "林肯大学",
+      "rank": 973,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q4572296",
+      "name": "亚特兰大大学",
+      "rank": 974,
+      "candidateCount": 4,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q447354",
+      "name": "克劳斯塔尔工业大学",
+      "rank": 979,
+      "candidateCount": 12,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q1379834",
+      "name": "圣彼得堡彼得大帝理工大学",
+      "rank": 980,
+      "candidateCount": 6,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q829449",
+      "name": "弗朗什-孔泰大学",
+      "rank": 983,
+      "candidateCount": 16,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q4118834",
+      "name": "Weill Cornell Medical College in Qatar",
+      "rank": 986,
+      "candidateCount": 15,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q506330",
+      "name": "孟加拉工程技术大学",
+      "rank": 989,
+      "candidateCount": 2,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q927304",
+      "name": "尼日利亚大学",
+      "rank": 990,
+      "candidateCount": 0,
+      "status": "discovery-error",
+      "error": "curl: (22) The requested URL returned error: 403\n",
+      "reviewReason": null
+    },
+    {
+      "id": "Q5038449",
+      "name": "卡迪夫威尔士学院大学",
+      "rank": 995,
+      "candidateCount": 10,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    },
+    {
+      "id": "Q469476",
+      "name": "开罗美国大学",
+      "rank": 999,
+      "candidateCount": 1,
+      "status": "pending-review",
+      "error": null,
+      "reviewReason": null
+    }
+  ]
+}

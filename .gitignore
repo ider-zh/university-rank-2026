@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+__pycache__/
+.env
+.env.*
+!.env.example
+.export-staging-*/
+test-results/
+archives/
+scripts/content.config.json

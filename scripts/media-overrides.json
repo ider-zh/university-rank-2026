@@ -1,0 +1,966 @@
+{
+  "Q1950740": {
+    "hero": "File:Icahn Medical Institute Mt. Sinai School of Medicine.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Icahn_Medical_Institute_Mt._Sinai_School_of_Medicine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q1950740",
+      "claimId": "Q1950740$869cbc88-4ce5-9a77-3d1f-ef18a952855d",
+      "rank": "normal"
+    }
+  },
+  "Q11942": {
+    "hero": "File:ETH Zürich - Hauptgebäude - Unispital 2012-07-30 07-57-03 ShiftN.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Unispital_2012-07-30_07-57-03_ShiftN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=210910",
+      "wikibaseItem": "Q11942"
+    }
+  },
+  "Q836805": {
+    "hero": "File:Chalmers Lindholmen i Göteborg 01.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Chalmers_Lindholmen_i_G%C3%B6teborg_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=5690",
+      "wikibaseItem": "Q836805"
+    }
+  },
+  "Q1939211": {
+    "hero": "File:Old Main Academic Center - Mississippi State University.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Old_Main_Academic_Center_-_Mississippi_State_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q1939211",
+      "claimId": "Q1939211$E059DECA-51CB-4A31-BEF1-6A4E6DDE7A08",
+      "rank": "normal"
+    }
+  },
+  "Q270272": {
+    "hero": "File:The Rockefeller University, York Avenue NYC.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Rockefeller_University%2C_York_Avenue_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=605466",
+      "wikibaseItem": "Q270272"
+    }
+  },
+  "Q1959511": {
+    "hero": "File:HSE new building (2015-01-22) 01.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HSE_new_building_%282015-01-22%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q1959511",
+      "claimId": "Q1959511$78303af0-4d85-3faf-fc88-963fe73babbc",
+      "rank": "preferred"
+    }
+  },
+  "Q5330559": {
+    "hero": "File:Eastern Virginia Medical School - Waitzer Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Eastern_Virginia_Medical_School_-_Waitzer_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q5330559",
+      "claimId": "Q5330559$40e65c30-4e81-fdd7-ae17-7ad104634238",
+      "rank": "normal"
+    }
+  },
+  "Q7896167": {
+    "hero": "File:Universidad de Puerto Rico (Río Piedras).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Universidad_de_Puerto_Rico_%28R%C3%ADo_Piedras%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q7896167",
+      "claimId": "Q7896167$105fc27c-4dde-c001-58f4-026ed6c9c761",
+      "rank": "normal"
+    }
+  },
+  "Q168756": {
+    "hero": "File:Bancroft Library - University of California, Berkeley - DSC04902.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bancroft_Library_-_University_of_California%2C_Berkeley_-_DSC04902.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=31922",
+      "wikibaseItem": "Q168756",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q131252": {
+    "hero": "File:University of Chicago, Harper Library.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/University_of_Chicago%2C_Harper_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=32127",
+      "wikibaseItem": "Q131252",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q838330": {
+    "hero": "File:Bascom Mall, University of Wisconsin, Madison, WI - 54302232407.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bascom_Mall%2C_University_of_Wisconsin%2C_Madison%2C_WI_-_54302232407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=23536538",
+      "wikibaseItem": "Q838330",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q21578": {
+    "hero": "File:FitzRandolph Gate - Princeton University (55143716112).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/FitzRandolph_Gate_-_Princeton_University_%2855143716112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=23922",
+      "wikibaseItem": "Q21578",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q168751": {
+    "hero": "File:Allen Building, West Campus, Duke University, Durham, NC (48960801602).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Allen_Building%2C_West_Campus%2C_Duke_University%2C_Durham%2C_NC_%2848960801602%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=53273",
+      "wikibaseItem": "Q168751",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q1079140": {
+    "hero": "File:Indiana University Bloomington - Maxwell Hall - panoramio.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Indiana_University_Bloomington_-_Maxwell_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=292242",
+      "wikibaseItem": "Q1079140",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q319078": {
+    "hero": "File:1888 Building University of Melbourne 2018.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1888_Building_University_of_Melbourne_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=363594",
+      "wikibaseItem": "Q319078",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1752043": {
+    "hero": "File:King Saud University Entrance Gate, Riyadh.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/King_Saud_University_Entrance_Gate%2C_Riyadh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=578090",
+      "wikibaseItem": "Q1752043",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q15574": {
+    "hero": "File:The Mitchell Building on the University of Adelaide campus on North Terrace. - 24599815649.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Mitchell_Building_on_the_University_of_Adelaide_campus_on_North_Terrace._-_24599815649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=206748",
+      "wikibaseItem": "Q15574",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1546191": {
+    "hero": "File:Western Michigan University East Hall.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Western_Michigan_University_East_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=161724",
+      "wikibaseItem": "Q1546191",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q777403": {
+    "hero": "File:WashU Danforth Campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/WashU_Danforth_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=58920",
+      "wikibaseItem": "Q777403",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q693674": {
+    "hero": "File:Bentley Library - Bentley University - DSC00327.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bentley_Library_-_Bentley_University_-_DSC00327.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=509227",
+      "wikibaseItem": "Q693674",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q7895977": {
+    "hero": "File:Fort Worth Cultural District June 2016 02 (University of North Texas Health Science Center).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Fort_Worth_Cultural_District_June_2016_02_%28University_of_North_Texas_Health_Science_Center%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikidata-P18",
+      "sourcePage": "https://www.wikidata.org/wiki/Q7895977",
+      "claimId": "Q7895977$50486BBD-731D-4691-89FD-5359256111EC",
+      "rank": "normal"
+    }
+  },
+  "Q401034": {
+    "hero": "File:Ahmadu Bello University Zaria Garden beside main gate at Samaru campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ahmadu_Bello_University_Zaria_Garden_beside_main_gate_at_Samaru_campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=68895781",
+      "wikibaseItem": "Q401034",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q149990": {
+    "hero": "File:University of Rochester Clock Tower.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Rochester_Clock_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=31918",
+      "wikibaseItem": "Q149990",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q868421": {
+    "hero": "File:Campus of the University of California, Irvine (aerial view, circa 2006).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Campus_of_the_University_of_California%2C_Irvine_%28aerial_view%2C_circa_2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=44757",
+      "wikibaseItem": "Q868421",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q501758": {
+    "hero": "File:UF-LibraryWest.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/UF-LibraryWest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=60611",
+      "wikibaseItem": "Q501758",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q190080": {
+    "hero": "File:Carnegie Mellon Hamerschlag Hall and Scott Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Carnegie_Mellon_Hamerschlag_Hall_and_Scott_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=48093",
+      "wikibaseItem": "Q190080",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q262760": {
+    "hero": "File:EPFL campus 2017.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/EPFL_campus_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=71968",
+      "wikibaseItem": "Q262760",
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q245247": {
+    "hero": "File:King's College London Bush House Building 3.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/King%27s_College_London_Bush_House_Building_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=158483",
+      "wikibaseItem": "Q245247",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q153265": {
+    "hero": "File:2008-10-05 05 Cincinnati architecture the University of Cincinnati's CARECrawley Building.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/2008-10-05_05_Cincinnati_architecture_the_University_of_Cincinnati%27s_CARECrawley_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=526016",
+      "wikibaseItem": "Q153265",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q221645": {
+    "hero": "File:Stockholm University campus building.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Stockholm_University_campus_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=27157",
+      "wikibaseItem": "Q221645",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q5088072": {
+    "hero": "File:Chaudhary Charan Singh University, Meerut, Uttar Pradesh, India.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chaudhary_Charan_Singh_University%2C_Meerut%2C_Uttar_Pradesh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=11522007",
+      "wikibaseItem": "Q5088072"
+    }
+  },
+  "Q8047333": {
+    "hero": "File:Yale-NUS College Campus - Aug 2019.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Yale-NUS_College_Campus_-_Aug_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=36091751",
+      "wikibaseItem": "Q8047333",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q270532": {
+    "hero": "File:Round Tower, King's College, University of Aberdeen.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Round_Tower%2C_King%27s_College%2C_University_of_Aberdeen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=213135",
+      "wikibaseItem": "Q270532",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q273263": {
+    "hero": "File:SuperC - bei Nacht.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperC_-_bei_Nacht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=243937",
+      "wikibaseItem": "Q273263"
+    }
+  },
+  "Q1317143": {
+    "hero": "File:University of Louisville CTR Building.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/University_of_Louisville_CTR_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=385843",
+      "wikibaseItem": "Q1317143",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1048898": {
+    "hero": "File:University of Vermont Billings Library.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Vermont_Billings_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=287800",
+      "wikibaseItem": "Q1048898",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1057199": {
+    "hero": "File:Hokkaido University clocktower.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hokkaido_University_clocktower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=357736",
+      "wikibaseItem": "Q1057199",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q622137": {
+    "hero": "File:Alumni Memorial Building Lehigh University.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alumni_Memorial_Building_Lehigh_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=43051",
+      "wikibaseItem": "Q622137",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1137652": {
+    "hero": "File:Maastricht University - Campus Randwyck.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Maastricht_University_-_Campus_Randwyck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=542667",
+      "wikibaseItem": "Q1137652",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1142924": {
+    "hero": "File:Universiti Malaya KL gate.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Universiti_Malaya_KL_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=286853",
+      "wikibaseItem": "Q1142924",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1202292": {
+    "hero": "File:Griffith University Nathan Campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Griffith_University_Nathan_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=409093",
+      "wikibaseItem": "Q1202292",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1641788": {
+    "hero": "File:University of Rhode Island campus aerial view.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/University_of_Rhode_Island_campus_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=15206116",
+      "wikibaseItem": "Q1641788",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q13344": {
+    "hero": "File:Université de Bordeaux (33940726715).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Universit%C3%A9_de_Bordeaux_%2833940726715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=3843038",
+      "wikibaseItem": "Q13344"
+    }
+  },
+  "Q812573": {
+    "hero": "File:Baylor Science Building (panoramic picture) - Baylor University, Waco, Texas.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Baylor_Science_Building_%28panoramic_picture%29_-_Baylor_University%2C_Waco%2C_Texas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=22693330",
+      "wikibaseItem": "Q812573",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q616591": {
+    "hero": "File:Oberlin College - Bosworth Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Oberlin_College_-_Bosworth_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=22506",
+      "wikibaseItem": "Q616591",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q940690": {
+    "hero": "File:UMKC Nima 25.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/UMKC_Nima_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=170430",
+      "wikibaseItem": "Q940690"
+    }
+  },
+  "Q1111367": {
+    "hero": "File:Colorado School of Mines Engineering hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Colorado_School_of_Mines_Engineering_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=340937",
+      "wikibaseItem": "Q1111367",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q188370": {
+    "hero": "File:Johnston Hall (Marquette University).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johnston_Hall_%28Marquette_University%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=741372",
+      "wikibaseItem": "Q188370",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1888771": {
+    "hero": "File:Grosvenor Building, Manchester Metropolitan University (15391128821).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Grosvenor_Building%2C_Manchester_Metropolitan_University_%2815391128821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=38308",
+      "wikibaseItem": "Q1888771",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1048851": {
+    "hero": "File:Yeshiva University Belter Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Yeshiva_University_Belter_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=67240",
+      "wikibaseItem": "Q1048851",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q181177": {
+    "hero": "File:Cranfield University C4D building.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Cranfield_University_C4D_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=703621",
+      "wikibaseItem": "Q181177",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q2140778": {
+    "hero": "File:Booth Hall, Rochester Institute of Technology Vignelli Center for Design Studies.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Booth_Hall%2C_Rochester_Institute_of_Technology_Vignelli_Center_for_Design_Studies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=81756",
+      "wikibaseItem": "Q2140778",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q611723": {
+    "hero": "File:Pitman Hall Residence at Toronto Metropolitan University 2025.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pitman_Hall_Residence_at_Toronto_Metropolitan_University_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=26065048",
+      "wikibaseItem": "Q611723",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q19370961": {
+    "hero": "File:Campus de Nice.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Campus_de_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=47365029",
+      "wikibaseItem": "Q19370961"
+    }
+  },
+  "Q15143": {
+    "hero": "File:Cumnock Hall - University of Massachusetts Lowell - DSC00148.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cumnock_Hall_-_University_of_Massachusetts_Lowell_-_DSC00148.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=251920",
+      "wikibaseItem": "Q15143",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q5021159": {
+    "hero": "File:CalOldMain.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/CalOldMain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=1893665",
+      "wikibaseItem": "Q5021159"
+    }
+  },
+  "Q491711": {
+    "hero": "File:Sejong University Front Gate.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sejong_University_Front_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=28817546",
+      "wikibaseItem": "Q491711",
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q655866": {
+    "hero": "File:Blick auf die Otto-von-Guericke Universität Magdeburg.JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Blick_auf_die_Otto-von-Guericke_Universit%C3%A4t_Magdeburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=914999",
+      "wikibaseItem": "Q655866"
+    }
+  },
+  "Q1872239": {
+    "hero": "File:Louisiana Tech University campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Louisiana_Tech_University_campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=62683",
+      "wikibaseItem": "Q1872239",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q3056813": {
+    "hero": "File:Cockcroft Building, University of Brighton, Lewes Road, Brighton (seen from Birling Close footpath).JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Cockcroft_Building%2C_University_of_Brighton%2C_Lewes_Road%2C_Brighton_%28seen_from_Birling_Close_footpath%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=69451",
+      "wikibaseItem": "Q3056813",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q196544": {
+    "hero": "File:Maulana Azad Library, Aligarh Muslim University.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Maulana_Azad_Library%2C_Aligarh_Muslim_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=42348022",
+      "wikibaseItem": "Q196544",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q666128": {
+    "hero": "File:State Normal Library, Indiana State University.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/State_Normal_Library%2C_Indiana_State_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=380922",
+      "wikibaseItem": "Q666128",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1191166": {
+    "hero": "File:SIP Building, University of Hyderabad.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/SIP_Building%2C_University_of_Hyderabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=3489887",
+      "wikibaseItem": "Q1191166",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1797817": {
+    "hero": "File:HAMPTON UNIVERSITY Virginia Cleveland Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/HAMPTON_UNIVERSITY_Virginia_Cleveland_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=1359774",
+      "wikibaseItem": "Q1797817",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1138080": {
+    "hero": "File:Engineering and Computing Building, Coventry University, from north-west.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Engineering_and_Computing_Building%2C_Coventry_University%2C_from_north-west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=703404",
+      "wikibaseItem": "Q1138080",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q74343": {
+    "hero": "File:Duquesne University - Des Places Hall.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Duquesne_University_-_Des_Places_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=582163",
+      "wikibaseItem": "Q74343",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q4507421": {
+    "hero": "File:College of Charleston campus, February 2014 - 12.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/College_of_Charleston_campus%2C_February_2014_-_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=585613",
+      "wikibaseItem": "Q4507421",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q426045": {
+    "hero": "File:2022 - Univ of Malta.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/2022_-_Univ_of_Malta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=1840561",
+      "wikibaseItem": "Q426045"
+    }
+  },
+  "Q1700617": {
+    "hero": "File:John Jay College of Criminal Justice - New Building (48269596871).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/John_Jay_College_of_Criminal_Justice_-_New_Building_%2848269596871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=213819",
+      "wikibaseItem": "Q1700617",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1656608": {
+    "hero": "File:Idaho State University's Administration Building.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Idaho_State_University%27s_Administration_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=402032",
+      "wikibaseItem": "Q1656608",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q1091287": {
+    "hero": "File:Chuo univ tama.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chuo_univ_tama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=1928535",
+      "wikibaseItem": "Q1091287"
+    }
+  },
+  "Q1345942": {
+    "hero": "File:University of East London Docklands Campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/University_of_East_London_Docklands_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=533513",
+      "wikibaseItem": "Q1345942",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q137503": {
+    "hero": "File:Łódź, Uniwersytet Łódzki Rektorat Uniwersytetu Łódzkiego - nowy - panoramio (1).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/%C5%81%C3%B3d%C5%BA%2C_Uniwersytet_%C5%81%C3%B3dzki_Rektorat_Uniwersytetu_%C5%81%C3%B3dzkiego_-_nowy_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=7089479",
+      "wikibaseItem": "Q137503"
+    }
+  },
+  "Q1781384": {
+    "hero": "File:The University of Tennessee at Chattanooga.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_University_of_Tennessee_at_Chattanooga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=995545",
+      "wikibaseItem": "Q1781384"
+    }
+  },
+  "Q6689304": {
+    "hero": "File:LSU Health Sciences Center, Shreveport, Louisiana.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LSU_Health_Sciences_Center%2C_Shreveport%2C_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-free-pageimage-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=43124823",
+      "wikibaseItem": "Q6689304"
+    }
+  },
+  "Q809633": {
+    "hero": "File:Baruch College - Newman Vertical Campus from the ESB (4693812275).jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Baruch_College_-_Newman_Vertical_Campus_from_the_ESB_%284693812275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=484019",
+      "wikibaseItem": "Q809633",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q174710": {
+    "hero": "File:Royce Hall post rain.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Royce_Hall_post_rain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=37765",
+      "wikibaseItem": "Q174710",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q49112": {
+    "hero": "File:Old campus.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Old_campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=34273",
+      "wikibaseItem": "Q49112",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q1432632": {
+    "hero": "File:University of Reading library.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/University_of_Reading_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=476468",
+      "wikibaseItem": "Q1432632",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q492318": {
+    "hero": "File:University of Alabama Campus 01.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/University_of_Alabama_Campus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=327950",
+      "wikibaseItem": "Q492318",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q49119": {
+    "hero": "File:Brandeis University Shapiro Campus Center.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Brandeis_University_Shapiro_Campus_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=81223",
+      "wikibaseItem": "Q49119",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  },
+  "Q10994963": {
+    "hero": "File:Green Chairs, Garhwal University.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Green_Chairs%2C_Garhwal_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=13404505",
+      "wikibaseItem": "Q10994963",
+      "disambiguatedTitle": "Hemwati Nandan Bahuguna Garhwal University",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q2495841": {
+    "hero": "File:Anschutz Engineering Center UCCS.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Anschutz_Engineering_Center_UCCS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=674160",
+      "wikibaseItem": "Q2495841",
+      "disambiguatedTitle": "University of Colorado Colorado Springs",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q1927705": {
+    "hero": "File:Downes Memorial Clock Tower, Trinity College Hartford.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Downes_Memorial_Clock_Tower%2C_Trinity_College_Hartford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=502336",
+      "wikibaseItem": "Q1927705",
+      "disambiguatedTitle": "Trinity College (Connecticut)",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "Exact university Wikipedia article QID; manually selected title names its campus or university building. License/geometry and final visual review still required."
+    }
+  },
+  "Q735049": {
+    "hero": "File:Sondheim Hall, University of Maryland Baltimore County (cropped).JPG",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sondheim_Hall%2C_University_of_Maryland_Baltimore_County_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "evidence": {
+      "method": "wikipedia-article-image-qid-match",
+      "sourcePage": "https://en.wikipedia.org/?curid=375259",
+      "wikibaseItem": "Q735049",
+      "requiresCampusIdentityReview": true,
+      "reviewedCampusIdentity": true,
+      "identityReview": "University article Wikidata QID verified; filename explicitly includes the full university name and a campus/building term; known people, art, event, indoor and branch-campus distractions excluded. Final image review remains required."
+    }
+  }
+}

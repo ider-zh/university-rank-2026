@@ -1,0 +1,13 @@
+{
+  "rows": 1000,
+  "directChanges": {
+    "students": 4,
+    "faculty": 4
+  },
+  "sourceHashesUnchanged": true,
+  "existingPositiveCountsUnchanged": true,
+  "rankingRecomputed": false,
+  "correctedSnapshot": "dist/university_population_backfill_20260913.parquet",
+  "overlay": "scripts/population-backfill-20260913/overlay.json",
+  "note": "Prepared population columns for all 1000 admitted institutions, after legacy source coalescing; not a replacement for the full upstream LLM table."
+}
